@@ -1,0 +1,401 @@
+track_id,track_name,artists,album_name,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,genre,mood
+spotify:track:3ii7r7exn5vhQYMbQI8788,Mi Gente,"J Balvin, Willy William",Vibras,66.0,0.688,0.603,10.0,-6.469,0.0,0.107,0.091,0.012,0.163,0.785,90.675,4.0,latin,happy
+spotify:track:Mz2tayEqBsCELPEy4ZbZTY,Silver Soul,Alex Page,Soul Sessions,77.0,0.777,0.705,7.0,-2.432,1.0,0.04,0.28,0.03,0.067,0.715,98.629,4.0,pop,happy
+spotify:track:e94RNjDxdhfYqK8rcqANkU,Fading Echo,Morgan Blake,Echo Diaries,74.0,0.621,0.665,4.0,-5.007,1.0,0.049,0.251,0.019,0.221,0.676,113.296,4.0,pop,happy
+spotify:track:vkdiivHywnPhaCG6p9ry9R,Animals,Martin Garrix,Gold Skies EP,66.0,0.672,0.944,2.0,-4.01,0.0,0.082,0.033,0.116,0.093,0.789,127.822,4.0,electronic,motivational
+spotify:track:JzRmCXCaBlAQPVVWfgZiOJ,Faded,Alan Walker,Different World,62.0,0.686,0.718,11.0,-4.803,0.0,0.088,0.063,0.1365,0.056,0.495,135.856,4.0,electronic,angry
+spotify:track:56wWf8HeSFueXLEhxnIFsY,Tennessee Whiskey,Chris Stapleton,Traveller,54.0,0.444,0.501,4.0,-6.657,1.0,0.066,0.139,0.005,0.233,0.423,121.19,4.0,country,sad
+spotify:track:qWxQFaa9LSGUSbsKbbt4ma,Anti-Hero,Taylor Swift,Midnights,80.0,0.742,0.777,9.0,-5.563,1.0,0.076,0.267,0.008,0.056,0.426,128.559,3.0,pop,motivational
+spotify:track:gcpaOETRg00vlVRoP8u26S,Danza Kuduro,"Don Omar, Lucenzo",Meet the Orphans,75.0,0.71,0.784,9.0,-5.473,0.0,0.053,0.179,0.048,0.099,0.814,121.668,4.0,latin,happy
+spotify:track:4nBve8lWdbPq8yXtBQkJcq,Neon Sky,Alex Chase,Our Sky EP,88.0,0.741,0.834,9.0,-4.166,0.0,0.037,0.084,0.031,0.203,0.422,109.583,4.0,pop,motivational
+spotify:track:SCyaRDcqzYh54tef4Ezn23,Elephant,Tame Impala,Lonerism,57.0,0.544,0.656,7.0,-7.845,1.0,0.088,0.186,0.055,0.163,0.346,100.636,4.0,indie,motivational
+spotify:track:ocHeCRXzFRle1XCMLaDShV,Golden Shadow,Drew Lane,Our Shadow Collection,71.0,0.708,0.559,8.0,-2.94,1.0,0.199,0.14,0.03,0.211,0.627,93.646,4.0,hiphop,energetic
+spotify:track:NZuR5J2YAzvoqGjZZLBNlf,Silver Voice,Drew Banks,Your Voice Sessions,63.0,0.738,0.632,8.0,-8.363,0.0,0.199,0.114,0.035,0.181,0.556,89.157,4.0,hiphop,energetic
+spotify:track:4bJ1bu0RweObsOU3EJXJNZ,Montero,Lil Nas X,Montero,74.0,0.649,0.663,9.0,-5.663,1.0,0.099,0.332,0.001,0.226,0.428,136.645,4.0,pop,happy
+spotify:track:38ur8xQW36TW7I19PhH8wf,Where Is My Mind,Pixies,Surfer Rosa,59.0,0.672,0.71,7.0,-3.679,1.0,0.073,0.133,0.083,0.346,0.663,136.245,4.0,rock,motivational
+spotify:track:I3ebSrLLVtRz4iEJSQWAnX,Midnight Shadow,Alex Woods,Our Shadow Collection,77.0,0.622,0.752,5.0,-5.675,1.0,0.077,0.184,0.028,0.3658749999999999,0.696,121.948,4.0,pop,happy
+spotify:track:JhVihcTLrjOwCuryXpy8eC,Butter,BTS,Butter,74.0,0.701,0.707,10.0,-5.358,0.0,0.077,0.171,0.036,0.132,0.791,138.71,3.0,pop,happy
+spotify:track:dv8ytO3K3uaDlH0Evl05Tr,Dark Sky,Skylar Woods,Sky Chronicles,74.0,0.703,0.712,0.0,-3.805,1.0,0.199,0.084,0.032,0.067,0.605,81.765,4.0,hiphop,energetic
+spotify:track:1wtfsYdR40VKP47QazNhWE,Smoky Room,Harlem Sessions Trio,Late Night,45.0,0.511,0.33212499999999984,3.0,-11.888625,0.0,0.078,0.494125,0.1365,0.291,0.617,119.198,4.0,jazz,chill
+spotify:track:5LDQCHYzHigAmQ1L6e5fXv,Midnight City,M83,"Hurry Up, We're Dreaming",62.0,0.769,0.669,9.0,-6.607,1.0,0.079,0.05,0.1365,0.076,0.471,122.181,4.0,electronic,energetic
+spotify:track:8csaXOcJL2vBom63OEkbp2,Better Days,Nova Lane,Horizon,81.0,0.623,0.515,11.0,-3.474,1.0,0.1,0.066,0.05,0.097,0.598,121.988,4.0,pop,happy
+spotify:track:1mXfVl2Lqem4YnM6lTOL5d,Drunk in Love,"Beyoncé, Jay-Z",Beyoncé,66.0,0.788,0.461,2.0,-7.071,0.0,0.164,-0.182875,0.008,0.212,0.461,81.912,4.0,rnb,energetic
+spotify:track:3Zde6VrBRLVON4Vl0oISs7,Open Star,Skylar Banks,Our Star EP,85.0,0.79,0.796,1.0,-3.504,1.0,0.09,-0.074,0.01,0.171,0.68,109.123,5.0,pop,happy
+spotify:track:7RwUrnvJi1otuwKeFVhx7T,Karma Police,Radiohead,OK Computer,64.0,0.407,0.6835,7.0,-4.269,1.0,0.068,0.154,0.03,0.307,0.341,124.364,4.0,rock,energetic
+spotify:track:xilzyVEZt53dIsGeNVdw2O,Fire Heart,Alex Cross,Heart Collection,87.0,0.882,0.775,6.0,-8.635,0.0,0.199,0.107,0.017,0.135,0.632,91.575,4.0,hiphop,energetic
+spotify:track:mBiJncZ3nKNi9OlUp4o3go,Dog Days Are Over,Florence + The Machine,Lungs,52.0,0.535,0.356,11.0,-11.888625,1.0,0.051,0.139,0.066,0.296,0.668,105.659,4.0,indie,happy
+spotify:track:54lOTkbSoCO4PQgC7bYa7x,Crystal Soul,Casey Voss,The Soul Collection,101.0,0.604,0.856,8.0,-3.387,1.0,0.07,0.104,0.087,0.21,0.645,147.28,4.0,rock,motivational
+spotify:track:9fJcHeO6BtzeBLlUSmvoge,Wild Dream,Morgan Page,Your Dream EP,85.0,0.701,0.69,7.0,-7.894,1.0,0.199,0.347,0.044,0.074,0.764,122.026,4.0,pop,motivational
+spotify:track:t3C0KAgIdCkNtSmzZKgJyp,Black,Pearl Jam,Ten,84.0,0.428,0.924,0.0,-6.776,0.0,0.054,0.081,0.126,0.237,0.654,101.799,4.0,rock,
+spotify:track:acZxTXLOoWF0fnw5GECMMU,Crystal River,Skylar Chase,A River,91.0,0.731,0.548,6.0,-4.741,1.0,0.054,0.274,0.014,0.119,0.785,130.809,4.0,pop,happy
+spotify:track:aANRrxjxhWMHpe7TYYHVcK,Rising River,Morgan Woods,River Sessions,92.0,0.2570000000000001,0.61,6.0,-5.76,0.0,0.043,0.148,0.03,0.165,0.5605,100.847,4.0,pop,happy
+spotify:track:kf0J7ELkpOH3PkmZkg5MsO,Bad Guy,Billie Eilish,When We All Fall Asleep,77.0,0.669,0.735,1.0,-3.489,0.0,0.037,0.171,0.05,0.249,0.535,110.809,4.0,pop,happy
+spotify:track:rqCXZwq7DuM11bNnrWktMs,Electric Wave,Jamie Blake,The Wave Chronicles,76.0,0.2570000000000001,0.757,7.0,-6.325,0.0,0.054,0.073,0.042,0.051,0.454,97.032,3.0,pop,
+spotify:track:j9mhxrDjN5RqLfCYLRAMwo,Crystal Wave,Jamie Woods,Our Wave Sessions,68.0,0.71,0.556,5.0,-6.985,1.0,0.199,0.139,0.024,0.177,0.446,76.912,4.0,hiphop,energetic
+spotify:track:6DFR9ot51uE87jsrpttHn8,Holy Wars,Megadeth,Rust in Peace,52.0,0.283,0.936,1.0,-4.478,1.0,0.075,0.036,0.1365,0.268,0.16,177.28012499999997,4.0,metal,angry
+spotify:track:VqYAwlEpmU96utTJcJ1H8Z,No Cap,Flex Monroe,Flex Season,71.0,0.791,0.551,3.0,-8.12,1.0,0.199,0.146,0.004,0.094,0.503,99.975,4.0,hiphop,motivational
+spotify:track:G5tKSPKatWvR9qnEJH67Ev,Strobe,deadmau5,For Lack of a Better Name,67.0,0.843,0.731,6.0,-4.975,1.0,0.065,0.067,0.1365,0.127,0.5605,138.652,4.0,electronic,energetic
+spotify:track:yAO3BqXaH4fnpixdXAFSXx,Friends in Low Places,Garth Brooks,No Fences,61.0,0.492,0.749,0.0,-5.677,1.0,0.075,0.471,0.009,0.187,0.456,118.182,4.0,country,motivational
+spotify:track:Abt7GWo8tXRoSCHIc584Hn,Rising Night,Alex Ray,A Night Sessions,64.0,0.339,0.854,-4.722,-3.83,0.0,0.046,0.014,0.084,0.069,0.505,153.186,4.0,rock,angry
+spotify:track:u7Bwksaq9crY6OZwJxWAhF,Let It Happen,Tame Impala,Currents,101.0,0.627,0.417,5.0,-10.726,1.0,0.09,0.439,0.066,0.073,0.583,108.034,4.0,indie,happy
+spotify:track:gYoPHteXiQQb9R4eH0c3bF,Flowers,Miley Cyrus,Endless Summer Vacation,86.0,0.755,0.796,11.0,-7.61,0.0,0.079,0.314,0.043,0.192,0.544,112.371,4.0,,energetic
+spotify:track:ff2Ct6kqGmZns4sojXNix3,B.Y.O.B.,System of a Down,Mezmerize,60.0,0.416,0.6835,6.0,-1.168,1.0,0.111,0.067,0.1365,0.144,0.5605,152.265,5.0,metal,angry
+spotify:track:EbUZF5r1SgZuznwUeYaxCr,Home,Edward Sharpe and the Magnetic Zeros,Up from Below,47.0,0.388,0.398,6.0,-11.663,1.0,0.042,0.494125,0.052,0.117,0.651,90.988,4.0,indie,relaxed
+spotify:track:1JJqkXkdPi6qH2uvVSJAss,Shape of You,Ed Sheeran,Divide,88.0,0.842,0.767,2.0,-4.248,0.0,0.106,0.188,0.01,0.125,0.628,100.321,4.0,pop,happy
+spotify:track:k1onLn25rRlXPQlBcTEAiG,Take Five,Dave Brubeck Quartet,Time Out,45.0,0.35,0.592,9.0,-7.268,0.0,0.058,0.494125,0.1365,0.236,0.5605,135.804,4.0,jazz,relaxed
+spotify:track:lvgmCGEB51UF5Wu7TEmT4b,Static Fire,Voltage Kings,Live Wire,74.0,0.419,0.661,6.0,-7.041,0.0,0.083,0.041,0.018,0.323,0.436,148.14,4.0,rock,energetic
+spotify:track:ssMQp7Lqy9Ci1irxsuRFWy,Broken Sky,Taylor Page,Our Sky,68.0,0.493,0.651,10.0,-6.956,1.0,0.054,0.099,0.052,0.138,0.631,120.807,4.0,rock,happy
+spotify:track:ddvk9WbjbBepVVFWKmp4G5,Dead Planets,Stellar Collapse,Event Horizon,67.0,0.636,0.669,9.0,-3.243,1.0,0.077,0.139,0.1365,0.198,0.585,117.541,5.0,rock,happy
+spotify:track:ApKcjk8cIrL2mrAmXqgSur,Fading Soul,Drew Cross,The Soul Collection,74.0,0.814,0.6835,5.0,-3.952,1.0,-0.033,0.057,0.018,0.174,0.425,142.266,4.0,pop,energetic
+spotify:track:JqEsj6tser69NchpUj26Ih,Last Nite,The Strokes,Is This It,66.0,0.538,0.71,8.0,-3.727,1.0,0.052,0.033,0.1365,0.234,0.303,136.576,4.0,,energetic
+spotify:track:KNkfHssNjyn2k5GJ79vbDK,Thinking Out Loud,Ed Sheeran,X,65.0,0.808,0.6835,5.0,-4.039,1.0,0.089,0.15,0.071,0.133,0.516,88.561,4.0,,happy
+spotify:track:vfxbbSKeUUtphVk7xTsmLH,Afraid,The Neighbourhood,#000000 & #FFFFFF,101.0,0.666,0.687,0.0,-8.575,0.0,0.05,0.168,0.085,0.273,0.735,134.683,4.0,indie,
+spotify:track:iS2Tb9F1fY69M0NBtVlJ1g,Fix You,Coldplay,X&Y,76.0,0.58,0.727,6.0,-4.815,0.0,0.052,0.029,0.025,0.24,0.404,156.83,4.0,rock,energetic
+spotify:track:6tEYLvsWwdNAWmiw7eT2My,Electric Shadow,Drew Woods,The Shadow Diaries,74.0,0.557,0.6835,4.0,-6.305,0.0,0.077,0.09,0.123,0.053,0.388,147.931,4.0,rock,motivational
+spotify:track:03h8FWrmff9k33FbBzfkRp,Swan Lake,Pyotr Tchaikovsky,Swan Lake Ballet,45.0,0.2570000000000001,0.469,5.0,-11.888625,0.0,0.038,0.494125,0.1365,0.092,0.142,98.263,4.0,classical,relaxed
+spotify:track:x9LbYvcVjgmoaOnMnj4qMl,Dakiti,"Bad Bunny, Jhay Cortez",El Último Tour Del Mundo,71.0,0.82,0.676,2.0,-4.438,0.0,0.12,0.182,0.027,0.163,0.624,91.235,4.0,latin,happy
+spotify:track:l3tlBOp1kBvyjvKgbR9by8,Mood,"24kGoldn, iann dior",El Dorado,71.0,0.691,0.643,8.0,-7.035,0.0,0.067,0.184,0.1365,0.13,0.544,100.23,4.0,pop,
+spotify:track:plqkwKcj5FSWXEaiSIrRgg,Distant Dream,Drew Rivers,The Dream Collection,85.0,0.769,0.72,5.0,-3.868,1.0,0.114,0.139,0.014,0.172,0.844,119.183,4.0,pop,happy
+spotify:track:xgJ3I5TYm0kffeidBUGZT3,Midnight Rain,Taylor Swift,Midnights,74.0,0.812,0.72,7.0,-4.066,0.0,0.117,0.211,0.03,0.163,0.669,108.277,4.0,pop,happy
+spotify:track:3dI6APiT5m7DZIyvy6PwoY,Seven Nation Army,The White Stripes,Elephant,67.0,0.368,0.892,2.0,-6.343,0.0,0.084,0.033,0.03,0.333,0.332,157.801,4.0,rock,energetic
+spotify:track:cNzHeAVzDI2wf7i7sIta4S,Golden Storm,Taylor Cross,Your Storm EP,79.0,0.758,0.848,2.0,-4.821,0.0,0.152,0.071,0.035,-0.0471249999999999,0.702,102.606,4.0,hiphop,motivational
+spotify:track:T5NB63wB95aWKOeDlDs7a1,Symphony No. 5,Ludwig van Beethoven,Beethoven Symphonies,45.0,0.2570000000000001,0.33212499999999984,10.0,-11.888625,0.0,0.057,0.494125,0.1365,0.226,0.176,79.698,4.0,classical,relaxed
+spotify:track:iq0RR7LlfSZP0gnMthh9Sk,Fire and Rain,James Taylor,Sweet Baby James,45.0,0.258,0.33212499999999984,1.0,-10.045,0.0,0.066,0.494125,0.001,0.34,0.254,113.759,4.0,folk,sad
+spotify:track:VlNtHch6JNj9wDyw8NNBva,Gold Rush,Tre Vibe,All Gold Everything EP,73.0,0.718,0.608,4.0,-8.428,0.0,0.199,0.073,0.017,0.093,0.364,83.217,12.45,hiphop,motivational
+spotify:track:Pl9x8fGlU5Jc7ACp191EZQ,Distant Soul,Jordan Banks,Soul,78.0,0.917,0.6835,6.0,-8.581,1.0,0.199,0.126,0.029,0.058,1.02225,99.833,4.0,hiphop,energetic
+spotify:track:NCAIZMx2aj9N9KCtwN4KpH,Rising Storm,Taylor Woods,Our Storm EP,70.0,0.634,0.69,11.0,-3.114,1.0,0.05,0.136,0.079,0.25,0.5605,153.35,4.0,rock,energetic
+spotify:track:Kzqj4kStjEDvVyZ11OolAw,Dark Heart,Morgan Cole,The Heart Diaries,76.0,0.712,0.552,8.0,-7.697,0.0,0.096,0.494125,0.022,0.169,0.5605,106.04,4.0,pop,happy
+spotify:track:FlUXSYF348jKXISeDaaeEP,Electric River,Skylar Ray,River Collection,75.0,0.609,0.537,10.0,-6.007,0.0,0.086,0.285,0.016,0.117,0.537,142.441,4.0,pop,happy
+spotify:track:S90GXWSrBzYA1w84uz3wOx,Glass Animals - Heat Waves,Glass Animals,Dreamland,73.0,0.616,0.567,0.0,-3.395,1.0,0.091,0.065,0.005,0.175,0.513,132.779,4.0,,happy
+spotify:track:L64ZOtItkKWoC2PhD9poBq,Dark Storm,Riley Stone,Storm Diaries,77.0,0.692,0.554,2.0,-6.193,1.0,0.09,0.239,0.013,0.171,0.713,126.516,12.331,pop,happy
+spotify:track:qTUnC6gPnM31NHnUKRHwAC,Lost River,Jamie Banks,River Chronicles,82.0,0.661,0.531,10.0,-4.288,0.0,0.114,0.349,0.031,0.062,0.471,99.57,4.0,pop,happy
+spotify:track:IssGlL5YcwsGZ5zkvbo7Ie,Broken River,Alex Cole,Your River Collection,81.0,0.695,0.678,5.0,-4.529,1.0,0.079,0.062,0.019,0.17,0.815,103.86,4.0,pop,happy
+spotify:track:eYpxs058h4kpFa1LQUcU2R,Leave The Door Open,"Bruno Mars, Anderson Paak",An Evening with Silk Sonic,74.0,0.835,0.648,10.0,-3.506,0.0,0.079,0.334,0.011,0.064,0.776,118.515,4.0,pop,
+spotify:track:xj9AsyEHLCVoPSldHEPhet,Neon Shadow,Chris Ray,Our Shadow Diaries,84.0,0.861,0.647,11.0,-7.127,1.0,0.199,0.08,0.002,0.23,0.594,90.805,4.0,hiphop,energetic
+spotify:track:SzE9oBZXdnrF0nU8834O3q,City Lights,The Neons,Downtown EP,82.0,0.72,0.595,0.0,-6.318,0.0,0.079,0.237,0.009,0.22,0.816,129.221,4.0,pop,happy
+spotify:track:yHe9ZVza8U5cXiKbRoqnr6,On Sight,Remy Blaze,Street Gospel,76.0,0.895,0.583,9.0,-8.373,0.0,0.105,0.141,0.004,0.2,0.339,100.117,4.0,hiphop,motivational
+spotify:track:TvefeTB6f7NVDe2odh0a2t,Creepin,"Metro Boomin, The Weeknd",Heroes & Villains,66.0,0.779,0.628,4.0,-6.832,0.0,0.08,-0.182875,0.025,0.203,0.58,123.514,4.0,pop,energetic
+spotify:track:scPyYlj6amy1oznvupv0Fg,King of Anything,Sara Bareilles,Kaleidoscope Heart,62.0,0.398,0.64,4.0,-7.45,0.0,0.039,0.383,0.029,0.248,0.561,125.023,5.0,indie,energetic
+spotify:track:obIuA2rGRIaUBp678HeeqH,Nonstop,Drake,Scorpion,73.0,0.853,0.808,2.0,-3.807,0.0,0.199,0.028,0.038,0.209,0.48,96.78,4.0,hiphop,motivational
+spotify:track:8kdXHLWxD0RiQw5qM3jAUm,Crystal Wave,Riley Cross,A Wave Chronicles,68.0,0.516,0.8,6.0,-2.955,0.0,0.039,0.139,0.048,0.163,0.42,133.157,4.0,rock,energetic
+spotify:track:4Mm2SqJD3dAXhq3GvNJGOy,Rockabye,"Clean Bandit, Sean Paul, Anne-Marie",Rather Be,64.0,0.685,0.6835,7.0,-1.3,0.0,0.095,0.072,0.1365,0.198,0.6,136.283,4.0,electronic,happy
+spotify:track:H4PhvHSSNtjNS5nzCcmeWm,Mob Ties,Drake,Scorpion,85.0,0.739,0.667,8.0,-11.888625,0.0,0.199,0.024,0.03,0.067,0.302,101.706,4.0,hiphop,motivational
+spotify:track:Z5x0pNcrCD2J9HsRUTOdZ5,Rising Star,Casey Banks,Star Diaries,64.0,0.672,0.673,4.0,-7.061,1.0,0.041,0.139,0.1365,0.306,0.513,102.03,4.0,rock,motivational
+spotify:track:AGA81MoobmwLScdBKJr7d1,Fading Dream,Chris Chase,Dream EP,70.0,0.565,0.503,4.0,-2.123,0.0,0.106,0.263,0.03,0.163,0.684,130.655,4.0,pop,happy
+spotify:track:Y0L0Oc8IWs9QX5R97okP36,Despacito,"Luis Fonsi, Daddy Yankee",Vida,80.0,0.87,0.649,3.0,-5.677,0.0,0.046,0.179,0.018,0.204,0.627,102.358,5.0,latin,happy
+spotify:track:FkkaKC7Op2x2IWgEccBkAb,Paranoid,Black Sabbath,Paranoid,45.0,0.2570000000000001,0.865,9.0,-2.797,0.0,0.054,0.043,0.1365,0.107,0.5605,169.959,3.0,metal,angry
+spotify:track:nZVoUkr0bSIwKQe8vCVcK5,Distant Soul,Morgan Blake,A Soul,88.0,0.758,0.733,8.0,-7.753,0.0,0.058,0.062,0.013,0.087,0.469,106.895,4.0,pop,energetic
+spotify:track:5jekciyK7EGyvXeoFy34nA,Midnight Star,Sam Ray,Star Diaries,75.0,0.667,0.702,6.0,-6.1,1.0,0.081,0.321,0.015,0.239,0.488,129.076,5.0,pop,happy
+spotify:track:MGSpsZtpowhBi36TrI1XkD,No Air,"Jordan Sparks, Chris Brown",Jordan Sparks,68.0,0.816,0.648,3.0,-5.677,1.0,0.08,0.213,0.019,0.058,0.591,118.753,3.0,rnb,motivational
+spotify:track:aZUbKy5T1ebhBb7v7LflaP,Summertime,"Ella Fitzgerald, Louis Armstrong",Porgy and Bess,45.0,0.574,0.33212499999999984,1.0,-11.888625,1.0,0.074,0.494125,0.1365,0.165,0.482,105.501,4.0,jazz,chill
+spotify:track:uNwEngMwV7oJGPKJvE6mci,Heartbreak Anniversary,Giveon,When It's All Said and Done,80.0,0.724,0.738,7.0,-2.081,1.0,0.059,0.34,0.016,0.138,0.797,127.15,4.0,pop,happy
+spotify:track:DJJyhd5nB0xaywYKmdkr8u,Levels,Avicii,True,65.0,0.867,0.93,3.0,-4.253,0.0,0.053,0.03,0.1365,0.055,0.701,133.051,4.0,electronic,motivational
+spotify:track:ywlsLbz1bLKEDP3dgeGe3U,Moonlight Sonata,Ludwig van Beethoven,Piano Sonatas,45.0,0.274,0.351,6.0,-11.888625,0.0,0.054,0.494125,0.03,0.3658749999999999,0.649,77.012,4.0,classical,relaxed
+spotify:track:UHOie9wvvi302lGD6x7u8w,Fading Night,Jordan Cole,The Night Collection,88.0,0.582,0.72,1.0,-7.058,0.0,0.056,0.166,0.025,0.197,0.792,140.549,4.0,pop,energetic
+spotify:track:Mfld0trgi9dX7chhp1qxQe,Lavender Haze,Taylor Swift,Midnights,82.0,0.837,0.598,7.0,-2.106,1.0,0.099,0.253,0.035,0.148,0.534,142.074,4.0,pop,
+spotify:track:8Ql5InaxxzD9Xj972UhRUE,Don't Stop Believin',Journey,Escape,60.0,0.326,0.632,10.0,-7.051,0.0,0.061,0.172,0.086,0.191,0.551,106.74,4.0,rock,angry
+spotify:track:EglRSl1Tcv1g26nmDWnQ3b,Breathe (2 AM),Anna Nalick,Wreck of the Day,51.0,0.548,0.495,2.0,-4.917,1.0,0.074,0.481,0.041,0.1,0.326,141.861,3.0,indie,sad
+spotify:track:ZG7mBEHbec4CuQOviyirrr,Air on the G String,Johann Sebastian Bach,Orchestral Suites,45.0,0.272,0.33212499999999984,9.0,-11.888625,1.0,0.035,0.494125,0.1365,0.077,0.501,109.541,4.0,classical,relaxed
+spotify:track:yBiRJ3oFX7lmOOJ84UhMIh,Lost Dream,Sam Chase,Dream Chronicles,87.0,0.679,0.818,2.0,-4.611,1.0,0.044,0.042,0.027,0.194,0.747,127.812,4.0,,
+spotify:track:LNTj6V65VMnYJSDLMob2EP,Fluorescent Adolescent,Arctic Monkeys,Suck It and See,67.0,0.485,0.795,6.0,-7.66,1.0,0.071,0.088,0.08,0.236,0.365,157.851,4.0,rock,
+spotify:track:r2LJyBCh76yTSVLg3el956,Use Somebody,Kings of Leon,Only by the Night,81.0,0.625,0.792,7.0,-7.302,0.0,0.063,0.074,0.055,0.122,0.475,126.876,4.0,rock,energetic
+spotify:track:mYrbpNnH3eLU6Pq5YhRjGH,R U Mine?,Arctic Monkeys,AM,71.0,0.588,0.909,3.0,-5.012,0.0,0.038,0.199,0.07,0.083,0.728,133.285,4.0,rock,happy
+spotify:track:aKqzcFqG1xATjXce7YvSQn,Fading Night,Jamie Cole,Our Night EP,80.0,0.672,0.829,0.0,-7.748,1.0,0.199,0.116,0.035,0.163,0.737,78.35,5.0,hiphop,motivational
+spotify:track:NqJRu0zCTfqQ0jnNS7DyJs,Big Rings,"Drake, Future",What a Time,73.0,0.879,0.858,10.0,-2.538,0.0,0.199,0.13,0.029,0.11,0.401,113.759,5.0,hiphop,motivational
+spotify:track:z1q4JJqyOm3lKR0qzwNVIa,Taki Taki,"DJ Snake, Selena Gomez, Ozuna, Cardi B",Carte Blanche,72.0,0.674,0.666,7.0,-2.463,0.0,0.101,0.149,0.041,0.128,0.514,105.884,4.0,latin,happy
+spotify:track:TlYrc07HXmBCAGUqbKL3W3,Golden Shadow,Quinn Rivers,Our Shadow Sessions,77.0,0.68,0.33212499999999984,7.0,-4.711,0.0,0.199,0.048,0.007,0.078,0.334,84.88,4.0,hiphop,motivational
+spotify:track:8lJiCKU21KIvDTt7RL37Av,Golden Storm,Jamie Ray,Storm Sessions,77.0,0.732,0.673,4.0,-5.278,0.0,0.07,0.218,0.0,0.226,0.498,127.974,3.0,pop,happy
+spotify:track:00XFkFoFJ3pkxla4JtY6p0,So What,Miles Davis,Kind of Blue,45.0,0.533,0.33212499999999984,5.0,-8.726,1.0,0.048,0.494125,0.1365,0.21,0.319,103.371,3.0,jazz,chill
+spotify:track:EOGRnWWMQ6olKtKX9niq0w,Levitating,Dua Lipa,Future Nostalgia,75.0,0.619,0.511,6.0,-5.677,1.0,0.115,0.309,0.016,0.181,0.542,177.28012499999997,4.0,pop,happy
+spotify:track:jrAw7Ze9J2Ol74sZvnsxXA,Wild Night,Casey Cross,A Night Chronicles,62.0,0.416,0.831,6.0,-4.815,1.0,0.083,0.199,0.092,0.234,0.631,113.759,4.0,rock,motivational
+spotify:track:NuNVQqRDVegHsqhSmx6y6E,Fire Shadow,Jamie Stone,The Shadow EP,83.0,0.819,0.601,10.0,-6.344,0.0,0.093,0.184,0.044,0.154,0.83,100.468,4.0,,happy
+spotify:track:e2MLcKZvsdG1zBKEfgYaHr,Electric River,Morgan Stone,Our River Diaries,78.0,0.81,0.6835,6.0,-3.829,1.0,0.199,0.073,0.016,0.14,0.747,76.357,4.0,hiphop,motivational
+spotify:track:2yS8YVuu1CZOpVqS74BFXZ,Intro,M83,"Hurry Up, We're Dreaming",74.0,1.057,0.737,8.0,-3.969,0.0,0.094,0.062,0.1365,0.105,0.609,139.997,4.0,electronic,motivational
+spotify:track:Eo46nRmbuqlV9c5JhWInK7,Desert Nights,Iron Wolves,Blood and Thunder,73.0,0.672,0.909,3.0,-3.167,1.0,0.079,0.097,0.107,0.212,0.466,101.256,4.0,rock,motivational
+spotify:track:IrBkpCKRwmDoAYQ0o1B1oO,Dark Soul,Quinn Stone,Our Soul EP,76.0,0.81,0.686,5.0,-5.252,1.0,0.113,0.027,0.012,0.156,0.484,120.033,4.0,pop,energetic
+spotify:track:KqiCVnXgrZSLhON1IcDZZg,Daydream,Jessa Cole,Floating,74.0,0.667,0.589,6.0,-5.301,0.0,0.063,0.197,0.041,0.06,0.549,98.954,4.0,pop,happy
+spotify:track:5DgOvdOVkXuCi8nWQfTHiu,Fly Me to the Moon,Frank Sinatra,It Might as Well Be Swing,45.0,0.476,0.551,5.0,-5.65,1.0,0.033,0.494125,0.1365,0.171,0.463,135.194,4.0,jazz,chill
+spotify:track:4Ztk9yVsqnd6WSKoiSdtsi,Fire Sky,Skylar Lane,The Sky Chronicles,86.0,0.657,0.76,6.0,-6.012,0.0,0.053,0.117,0.043,0.144,0.538,134.405,4.0,pop,energetic
+spotify:track:9v5dUaW39y6pXDWUGcrs3I,Bad and Boujee,"Migos, Lil Uzi Vert",Culture,82.0,0.813,0.837,6.0,-3.295,1.0,0.199,0.097,0.026,0.145,0.426,95.978,4.0,hiphop,energetic
+spotify:track:qIs9f9lgvbISm6CsqO9l7j,Paper Route,Luca Drip,Stacks & Dreams,78.0,0.918,0.582,7.0,-6.833,1.0,0.199,0.122,0.036,0.15,0.307,97.99,4.0,hiphop,energetic
+spotify:track:zMSvcFkxHDth1iYosyDL2x,Don't You Worry Child,Swedish House Mafia,Until One,74.0,0.677,0.665,6.0,-6.555,1.0,0.068,0.007,0.1365,0.064,0.736,132.679,4.0,electronic,happy
+spotify:track:tBstrXryhvlVzIbTfj7VNQ,The Night Will Always Win,Manchester Orchestra,Hope,45.0,0.381,0.455,2.0,-7.361,1.0,0.071,0.494125,0.067,0.246,0.594,119.29,4.0,folk,???
+spotify:track:ojEe9FugSubcJkmjZvuRu9,Dark Shadow,Casey Blake,Your Shadow Collection,76.0,0.906,0.591,6.0,-8.226,1.0,0.187,0.131,0.031,0.247,0.478,81.339,4.0,hiphop,motivational
+spotify:track:F8yo9ALI8WqzWjC3UCk9my,Electric Night,Sam Voss,Your Night Sessions,63.0,0.394,0.702,11.0,-4.324,0.0,0.038,0.098,0.128,0.097,0.5605,104.301,4.0,rock,happy
+spotify:track:ywGvRGRwqmIUAp8JRH0krW,The Four Seasons: Spring,Antonio Vivaldi,The Four Seasons,45.0,0.39,0.425,9.0,-11.888625,1.0,0.05,0.494125,0.1365,0.19,0.5605,64.621,4.0,classical,relaxed
+spotify:track:Cl57Nj6IuO8K2Frn2bQPEP,Silver River,Alex Rivers,Your River EP,86.0,0.77,0.839,10.0,-5.728,0.0,0.079,0.053,0.024,0.223,0.798,119.654,4.0,,happy
+spotify:track:iF5RJW8R3a4xQ0oqDenKoy,Con Calma,"Daddy Yankee, Snow",Con Calma,74.0,0.657,0.725,-4.782,-5.677,1.0,0.064,0.145,0.036,0.165,0.819,125.012,4.0,latin,happy
+spotify:track:rib5CG0lwAeALFo2ZyvqMn,Broken Storm,Riley Cross,A Storm Collection,77.0,0.758,0.709,3.0,-7.472,0.0,0.079,0.119,0.021,0.162,0.723,125.602,4.0,pop,happy
+spotify:track:vuBvnNMRhvpQJH7iGhiQ6x,Fading Dream,Sam Stone,Our Dream Collection,45.0,0.818,0.689,11.0,-2.58,1.0,0.035,0.147,-0.0535,0.128,0.423,96.45,4.0,pop,
+spotify:track:TtOQSFi2otME8DANyLGMkg,Open Light,Morgan Banks,Your Light,69.0,0.692,0.716,3.0,-6.454,0.0,0.199,0.139,0.021,0.206,0.711,81.564,4.0,hiphop,energetic
+spotify:track:X8FFIyEja7OQTxrtTQEMwk,Midnight Road,Sam Ray,Your Road Diaries,90.0,0.672,0.688,11.0,-6.15,0.0,0.054,0.06,0.008,0.187,0.834,105.382,4.0,pop,happy
+spotify:track:AZdNkF7JDJJMHqrccoDluF,Canon in D,Johann Pachelbel,Baroque Favorites,45.0,0.2570000000000001,0.33212499999999984,8.0,-11.888625,1.0,0.052,0.494125,0.1365,0.189,0.178,72.649,4.0,classical,relaxed
+spotify:track:BycjaYzPXUqS82v3fav7YB,Broken Sky,Morgan Woods,Sky Chronicles,73.0,0.907,0.737,5.0,-3.48,1.0,0.116,0.023,0.032,0.078,0.363,94.902,4.0,hiphop,motivational
+spotify:track:hSn6RI2D89NHon8U62QI3S,Way 2 Sexy,"Drake, Future, Young Thug",Certified Lover Boy,81.0,0.916,0.757,9.0,-3.887,0.0,0.184,0.046,0.001,0.181,0.305,85.664,4.0,hiphop,energetic
+spotify:track:ABmH0x9ZUinAMRwTfUAqVs,Fading Heart,Sam Cross,Our Heart Diaries,72.0,0.827,0.33212499999999984,7.0,-7.185,1.0,0.044,0.172,0.043,-0.0471249999999999,0.614,96.778,4.0,pop,energetic
+spotify:track:j5C4XCMLICxKTjdVmyjcNm,The Scientist,Coldplay,A Rush of Blood to the Head,61.0,0.491,0.641,7.0,-2.457,1.0,0.079,0.18,0.03,0.292,0.426,146.111,4.0,rock,angry
+spotify:track:UJC4dzvdm4BNJ6lawOHOnm,Golden Hour,JVKE,this is what golden hour feels like,75.0,0.569,0.6835,5.0,-4.208,0.0,0.199,0.257,0.015,-0.0471249999999999,0.625,113.759,4.0,pop,motivational
+spotify:track:4G63sEMMnA5Mq5AOyz99zX,Do I Wanna Know?,Arctic Monkeys,AM,67.0,0.593,0.616,10.0,-5.677,1.0,0.083,0.09,-0.0535,0.309,0.364,114.77,4.0,rock,motivational
+spotify:track:8zeURhI0w3vCmzB5Jc9a94,Fire Star,Morgan Blake,Our Star Sessions,74.0,0.746,0.588,10.0,-7.007,1.0,0.066,0.121,0.035,0.097,0.567,140.19,4.0,pop,energetic
+spotify:track:8Y72COYJjxWDkwwSC7YMSv,Chop Suey!,System of a Down,Toxicity,50.0,0.415,0.908,6.0,-5.677,0.0,0.053,0.019,0.1365,0.184,0.238,141.161,3.0,metal,angry
+spotify:track:txD4pPXnr3qhObA754S6uS,Open Shadow,Sam Ray,Our Shadow,75.0,0.672,0.512,1.0,-2.357,0.0,0.072,0.156,0.042,0.193,0.79,136.16,4.0,pop,##corrupt##
+spotify:track:sFeXctq0OZ9a13x6WAppYg,Rising Road,Jordan Blake,Your Road EP,74.0,0.759,0.842,6.0,-6.988,0.0,0.063,0.086,0.01,0.219,0.734,139.621,4.0,UNKNOWN,happy
+spotify:track:qmR2QeWQ4xw18wJJbx8yHa,Jimmy Cooks,"Drake, 21 Savage","Honestly, Nevermind",81.0,0.846,0.598,9.0,-3.627,1.0,0.199,0.079,0.019,0.245,0.445,78.826,4.0,hiphop,motivational
+spotify:track:xPzi0N7cJGhWuZUFKd5ET3,Dark Rain,Riley Blake,Your Rain EP,70.0,0.672,0.6835,6.0,-5.081,0.0,0.09,0.186,0.059,0.114,0.467,118.48,4.0,rock,
+spotify:track:ucE84VQ9X3Gck2qxvNG9ll,Somebody That I Used to Know,"Gotye, Kimbra",Making Mirrors,65.0,0.427,0.904,11.0,-2.221,1.0,0.055,0.131,0.13,0.134,0.599,150.203,4.0,rock,energetic
+spotify:track:0ASFXAFPQJscBKdgFcw3dT,Tennis Court,Lorde,Pure Heroine,53.0,0.596,0.484,8.0,-8.969,1.0,0.082,0.494125,0.033,0.212,0.582,116.611,4.0,indie,happy
+spotify:track:iXsjZYcAOai3jd9oemWXkL,Jolene,Dolly Parton,Jolene,50.0,0.545,0.429,11.0,0.6723749999999997,1.0,0.047,0.161,0.009,0.169,0.555,107.623,4.0,country,happy
+spotify:track:SCeM5UAp4zpJFfsGPO9ScG,Midnight Echo,Alex Chase,Our Echo,79.0,0.644,0.758,7.0,-7.725,1.0,0.107,0.239,0.009,0.122,0.443,132.91,4.0,pop,NONE
+spotify:track:rfqWVc7c4BvFI4wjXm32D0,Midnight Rain,Skylar Rivers,Your Rain Collection,62.0,0.774,0.568,5.0,-4.451,0.0,0.199,0.024,0.012,0.146,0.325,99.897,4.0,hiphop,motivational
+spotify:track:RwW5M9LvBt6MxzE0xpISPJ,Dark Night,Riley Stone,Your Night Collection,77.0,0.694,0.64,6.0,-3.85,0.0,0.079,0.281,0.018,0.229,0.628,141.02,3.0,pop,happy
+spotify:track:b0wwhA7ydj5WqYn7Fh7Ecv,Rising Dream,Sam Cole,The Dream EP,83.0,0.748,0.605,0.0,-3.867,0.0,0.074,0.312,0.022,0.088,0.576,100.338,3.0,pop,happy
+spotify:track:XuWpJuaOxZZc0xWBJAx6FT,Lost Sky,Riley Rivers,Your Sky Sessions,76.0,0.748,0.725,6.0,-4.21,1.0,0.094,0.238,0.03,0.109,0.806,97.89,4.0,pop,happy
+spotify:track:j6YZrIVFWr2eLYO9nVugBl,Reptilia,The Strokes,Room on Fire,72.0,1.057,0.621,9.0,-2.218,1.0,0.062,0.011,0.058,0.058,0.468,110.111,4.0,rock,angry
+spotify:track:spsgPUkzWGszFD3dbWgkgY,Crystal Voice,Jamie Page,Your Voice EP,88.0,0.757,0.832,8.0,-7.023,0.0,0.076,0.18,0.023,0.163,0.729,115.846,4.0,pop,motivational
+spotify:track:HRBlofZLCxu2Mjuzp2yWDm,Fading Shadow,Morgan Cross,Shadow Sessions,66.0,0.408,0.676,2.0,-5.002,1.0,0.073,0.147,0.069,0.167,1.02225,120.036,4.0,rock,motivational
+spotify:track:uwOO7w4MqjbvwfZKMl2DdX,Neon Moon,Nightly,Nightly,91.0,0.83,0.749,1.0,-11.888625,0.0,0.044,0.168,0.026,0.216,0.632,101.234,4.0,pop,motivational
+spotify:track:ZluG47Je7ejPzvbNqfkRjH,Requiem in D minor,Wolfgang Amadeus Mozart,Requiem,45.0,0.283,0.463,3.0,-11.888625,1.0,0.057,0.494125,0.1365,0.095,0.14,117.578,3.0,classical,sad
+spotify:track:kXj7tC4jLlf7byz8FoCr9g,Telepatia,Kali Uchis,Sin Miedo,81.0,0.733,0.627,5.0,-3.353,0.0,0.091,0.037,0.032,0.117,0.813,114.371,4.0,pop,happy
+spotify:track:HrD6JZkxqLXWBqz8I5HZCQ,Neon Heart,Quinn Page,Heart,76.0,0.723,0.698,3.0,-5.97,1.0,0.077,-0.135,0.005,0.182,0.5605,128.492,4.0,pop,energetic
+spotify:track:6B10MDbMvkH8fjgKM6tW9Z,Under the Bridge,Red Hot Chili Peppers,Blood Sugar Sex Magik,75.0,0.374,0.632,1.0,-4.948,1.0,0.087,0.013,0.057,0.176,0.528,128.679,4.0,rock,angry
+spotify:track:GRBakmsZaNKIi0WZR2HAoI,Fire Storm,Skylar Voss,A Storm Sessions,74.0,0.591,0.782,7.0,-3.828,1.0,0.114,0.226,0.023,0.135,0.787,113.759,4.0,pop,happy
+spotify:track:sk5bcYklNvqo9Fqy8ES1C6,Raining Blood,Slayer,Reign in Blood,56.0,0.375,0.982,9.0,-4.883,1.0,0.06,0.097,0.1365,0.154,1.02225,177.28012499999997,4.0,metal,angry
+spotify:track:rXuKuKb8CaKxeuhYSaS5pg,Fading Shadow,Taylor Woods,A Shadow Chronicles,73.0,0.728,0.33212499999999984,11.0,-6.401,1.0,0.199,0.076,0.008,0.116,0.661,103.56,4.0,hiphop,motivational
+spotify:track:gZQaov3IvSqWhTxkKs2nMw,Open Light,Sam Page,Your Light Diaries,75.0,0.386,0.77,8.0,-4.776,1.0,0.039,0.125,0.038,0.34,0.422,134.091,3.0,rock,motivational
+spotify:track:o3P3xdxEogQqeGOeT16voU,Lean On (remix),"Major Lazer, J Balvin",Peace Is the Mission,67.0,0.654,0.768,11.0,-4.994,1.0,0.046,0.24,0.053,0.096,0.588,105.415,4.0,latin,happy
+spotify:track:r1il3K6YVt8gk0dHAfJHXt,Alright,Kendrick Lamar,To Pimp a Butterfly,87.0,0.664,0.789,7.0,-7.256,1.0,0.199,0.109,0.007,0.247,0.739,53.40312500000002,4.0,hiphop,motivational
+spotify:track:I6hkcu2anh4dOFTZJAgvIR,Broken Heart,Quinn Ray,Your Heart Diaries,84.0,0.553,0.651,2.0,-7.957,1.0,0.064,0.156,0.028,0.163,0.532,106.561,4.0,pop,motivational
+spotify:track:ekg895I1jWqv7vBEQCDwfm,Broken Night,Riley Voss,Your Night Sessions,84.0,0.742,0.688,9.0,-7.526,1.0,0.113,0.342,0.008,0.115,0.469,99.18,4.0,pop,energetic
+spotify:track:qZ2Ux6Z1cJtX62wX1JWay4,Midnight Voice,Sam Cross,The Voice Sessions,75.0,0.437,0.652,7.0,-5.647,1.0,0.048,0.191,0.082,0.118,0.452,101.301,4.0,rock,energetic
+spotify:track:mgaZJkv65iGRhVZXelCRIl,Distant Rain,Alex Voss,Our Rain,78.0,0.621,0.761,11.0,-7.879,0.0,0.104,0.12,0.014,0.148,0.814,139.852,5.0,pop,happy
+spotify:track:qRdYJN4BOeN6f5GsgqQoxu,Lean On,"Major Lazer, MO",Peace Is the Mission,85.0,0.606,0.82,9.0,-5.303,0.0,0.087,0.061,0.1365,0.3658749999999999,1.02225,124.513,4.0,electronic,motivational
+spotify:track:Pc6n5Ra4vUKEwXUD7Qbe5l,Midnight Star,Jamie Stone,A Star Collection,70.0,0.781,0.576,7.0,-3.708,0.0,0.039,0.044,0.029,0.1,0.69,140.63,4.0,pop,happy
+spotify:track:0iVWnHbdg7xKQ7R7D8Lyeh,Laugh Now Cry Later,"Drake, Lil Durk",Certified Lover Boy,76.0,0.789,0.575,9.0,-5.063,0.0,0.199,0.095,0.008,0.051,0.497,90.278,4.0,hiphop,
+spotify:track:FkmdB6K3JGMLrstQRODj0J,Neon Heart,Riley Stone,Our Heart,75.0,0.738,0.6835,7.0,-4.171,1.0,0.118,0.176,0.006,0.207,0.444,105.348,4.0,pop,energetic
+spotify:track:lWapvBQSZbSCGtgYKhHIe3,Neon Storm,Quinn Woods,A Storm,74.0,0.872,0.738,8.0,-8.732,0.0,0.199,0.111,0.032,0.07,0.318,84.798,4.0,hiphop,
+spotify:track:WKvrAc6bNBR5WFmSsOeWR4,Distant Voice,Chris Rivers,A Voice,91.0,0.672,0.804,1.0,-4.689,0.0,0.089,0.207,0.03,0.163,0.656,119.701,4.0,pop,happy
+spotify:track:b65PM0s7GxkKMsabkQTGXM,Neon Light,Skylar Stone,Your Light Chronicles,79.0,0.89,0.866,1.0,-4.773,0.0,0.199,0.143,0.021,0.13,0.414,87.294,4.0,hiphop,energetic
+spotify:track:0WzsBtDY53Z6cNI0dLKiUs,Fast Car,Tracy Chapman,Tracy Chapman,45.0,0.652,0.6835,3.0,-3.383,0.0,0.087,0.241,0.069,0.235,0.39,116.21,4.0,country,angry
+spotify:track:luHy7GBTp7YsEqmGv0lH8w,Kiss Me More,"Doja Cat, SZA",Planet Her,78.0,0.654,0.65,10.0,-5.953,1.0,0.106,0.291,0.005,0.242,0.567,120.298,4.0,pop,motivational
+spotify:track:FmkEn2VALR4atWv5inMkGN,Midnight Wave,Drew Stone,A Wave Collection,81.0,0.809,0.803,7.0,-4.855,0.0,0.183,0.123,0.035,0.184,0.449,98.159,4.0,hiphop,energetic
+spotify:track:SD73p2Y00OjfHpjwgeFlvT,Open Voice,Quinn Voss,A Voice EP,77.0,0.615,0.537,1.0,-5.55,1.0,0.108,0.038,0.027,0.19,0.496,108.727,4.0,pop,happy
+spotify:track:zF2PclXB0LNxV2rRA6Fsev,Positions,Ariana Grande,Positions,79.0,0.757,0.726,7.0,-7.442,1.0,0.05,0.248,0.015,0.166,0.621,134.647,4.0,pop,energetic
+spotify:track:lL3l2guFo3hA6qaa2ra6dv,Neon Voice,Quinn Banks,Voice Sessions,87.0,0.678,0.589,11.0,-5.677,0.0,0.084,0.199,0.013,0.051,0.745,140.504,4.0,,happy
+spotify:track:Kff6S1PRiTb86eT8dKEaS5,Smells Like Teen Spirit,Nirvana,Nevermind,60.0,0.455,0.823,8.0,-3.327,1.0,0.076,0.051,0.075,0.146,0.542,110.959,3.0,rock,motivational
+spotify:track:wAJGiYNdXcP4YT5YURp2lh,Neon Storm,Skylar Banks,Storm Sessions,75.0,0.71,0.6835,10.0,-6.621,0.0,0.199,0.494125,0.03,0.233,0.646,86.074,4.0,hiphop,motivational
+spotify:track:gPsj6twWc1xXTYdhc471ZM,Broken Crown,The Ravens,Dark Horizon,71.0,0.418,0.911,2.0,-5.409,1.0,0.087,0.015,0.031,0.22,0.597,156.227,5.0,rock,motivational
+spotify:track:Jf5LTC7wVYhs4sJPPLj6xG,Differences,Ginuwine,Ginuwine...the Bachelor,71.0,0.575,0.772,6.0,-6.405,0.0,0.079,0.171,0.069,0.133,0.5605,95.605,4.0,rnb,motivational
+spotify:track:xZATJnqaHIRsy1W8DbZMUO,Open Shadow,Taylor Page,Your Shadow Diaries,53.0,0.494,0.802,9.0,-5.677,0.0,0.049,-0.119,0.1365,0.119,0.449,111.663,4.0,rock,motivational
+spotify:track:nEvcq9UCABpByBTuykFL7G,Fade,Alan Walker,Different World,66.0,0.851,0.812,10.0,-2.509,0.0,0.072,0.058,0.1365,0.097,0.517,139.262,4.0,electronic,energetic
+spotify:track:J8hfoS38u9pxt5UGdCqHBm,Electric Storm,Taylor Stone,Our Storm Sessions,67.0,0.732,0.568,1.0,-3.397,1.0,0.048,0.048,0.042,0.185,0.637,134.064,4.0,pop,happy
+spotify:track:t9cu4AyRUuXzU3Ca3YQE4Y,"Take Me Home, Country Roads",John Denver,"Poems, Prayers & Promises",66.0,0.519,0.73,5.0,-11.888625,0.0,0.096,0.494125,0.0,0.173,0.669,127.245,4.0,country,happy
+spotify:track:XeV4GJNL3mzggiuHcEy5dT,Neon Sky,Jamie Woods,Sky Diaries,90.0,0.602,0.607,1.0,-7.228,1.0,0.092,0.247,0.015,0.092,0.735,100.93,4.0,pop,happy
+spotify:track:pHrFinUHr694FpfBT6VvL9,Therefore I Am,Billie Eilish,Therefore I Am,81.0,0.596,0.604,9.0,-4.761,0.0,0.096,0.194,0.033,0.163,0.755,113.759,4.0,pop,energetic
+spotify:track:LIB9mllkOBEwI0doLYdKOZ,Golden Shadow,Morgan Voss,A Shadow,76.0,0.751,0.571,3.0,-2.272,1.0,0.07,0.224,0.034,0.223,0.492,103.854,4.0,pop,happy
+spotify:track:vjy08ymnB5zQLrTVA1jYIn,My Universe,"Coldplay, BTS",Music of the Spheres,83.0,0.559,0.6835,1.0,-5.955,0.0,0.063,0.258,0.039,0.164,0.497,115.992,4.0,pop,motivational
+spotify:track:7gwJhZV2pUS6mdiuoHVOn4,Electric Heart,Skylar Lane,Your Heart Sessions,91.0,0.666,0.6835,6.0,-5.677,0.0,0.064,0.285,0.022,0.059,0.527,140.567,4.0,pop,energetic
+spotify:track:ms6xmMEJ2gPGBfY5SdLO0Q,Fading Star,Jamie Page,Star Sessions,68.0,0.767,0.76,4.0,-4.398,1.0,0.151,0.139,0.022,0.145,0.383,99.557,4.0,hiphop,energetic
+spotify:track:FT9sgvzE8nbqV2wnL7a4DH,Unholy,"Sam Smith, Kim Petras",Gloria,69.0,0.596,0.558,10.0,-5.924,1.0,0.115,0.315,0.042,0.1,0.545,130.467,4.0,pop,happy
+spotify:track:OHxxhnvCqhorA0yNZUFk5R,Cheap Thrills,Sia,This Is Acting,62.0,0.737,0.755,4.0,-2.824,0.0,0.032,0.139,0.1365,0.053,0.511,130.214,4.0,electronic,motivational
+spotify:track:YIujx0rcKIrSINutAtjq9J,Goosebumps,"Travis Scott, Kendrick Lamar",Birds in the Trap,77.0,0.907,0.691,10.0,-8.328,1.0,0.199,0.035,0.002,0.246,0.679,102.78,4.0,hiphop,motivational
+spotify:track:pcQ5FaJffDQGotaSYkgeaq,Rising Dream,Jordan Cross,The Dream Sessions,76.0,0.892,0.74,3.0,-7.072,1.0,0.199,0.108,0.016,0.129,0.407,90.964,4.0,hiphop,energetic
+spotify:track:0hTtiNNsq5Is8Lhnsvik6s,Rising River,Casey Chase,Your River Sessions,73.0,0.707,0.509,0.0,-6.801,1.0,0.098,0.073,0.014,0.1,0.465,128.513,4.0,pop,energetic
+spotify:track:xV66dorGXls12wsBeFz99c,Black Beatles,Rae Sremmurd,SremmLife 2,90.0,0.892,0.865,11.0,-7.297,0.0,0.151,0.142,0.028,0.071,0.517,91.22,4.0,hiphop,motivational
+spotify:track:HIlL0w9P53CHdatOkuiYaP,A Love Supreme,John Coltrane,A Love Supreme,45.0,0.642,0.459,10.0,-11.888625,1.0,0.079,0.494125,0.1365,0.078,0.345,121.342,4.0,jazz,chill
+spotify:track:H9dPlM4iwXhWQfeG8d04WZ,Simple Things,Marco Voss,Simple Things EP,78.0,0.719,0.577,6.0,-2.391,0.0,0.082,0.158,0.008,0.116,0.466,108.039,4.0,pop,happy
+spotify:track:FfycfcDcysYyujCVD95E5B,Electric Feel,Cassidy Ray,Pulse,88.0,0.673,0.769,6.0,-4.125,1.0,0.079,0.348,0.019,0.224,0.745,113.759,3.0,pop,happy
+spotify:track:TwsnRWqUdbweGoFRz3Mtmt,Fire Heart,Casey Page,The Heart Collection,84.0,0.724,0.769,6.0,-6.436,1.0,0.11,0.198,0.033,0.08,0.496,96.833,4.0,pop,motivational
+spotify:track:MYYo7JSxt54lWFWMbYQlFa,Neon Voice,Sam Voss,Your Voice Sessions,77.0,0.562,0.62,4.0,-3.883,1.0,0.044,0.183,0.031,0.155,0.609,106.212,4.0,pop,
+spotify:track:ASn3mC47dsR8W1fVrYDoVs,Neon Storm,Quinn Blake,Our Storm,80.0,0.732,0.68,10.0,-6.364,1.0,0.199,0.102,0.023,0.235,0.712,94.354,4.0,hiphop,motivational
+spotify:track:Fq25vlnXstXni1yNHFFt6u,Jumpman,"Drake, Future",What a Time to Be Alive,79.0,0.681,0.671,6.0,-4.962,1.0,0.101,0.019,0.021,0.219,0.684,103.622,4.0,,motivational
+spotify:track:2qD9TjIdRbIXCFtluXPQ4z,Before He Cheats,Carrie Underwood,Some Hearts,67.0,0.608,0.625,7.0,-6.024,0.0,0.037,0.494125,0.099,0.222,0.423,99.128,4.0,country,happy
+spotify:track:qG16GsWBog76iATeqzNMmH,Sleepyhead,Passion Pit,Manners,62.0,0.573,0.54,11.0,-11.094,1.0,0.059,0.342,0.1365,0.19,0.56,140.948,4.0,,happy
+spotify:track:GaFojPPFfHpLLYF2SkcpmQ,Fire Echo,Sam Cross,A Echo Sessions,81.0,0.774,0.711,11.0,-4.794,1.0,0.031,0.059,0.009,0.145,0.792,100.317,4.0,pop,motivational
+spotify:track:5gMwfrmpWo8FRYpZMAr4it,Broken Shadow,Drew Lane,Our Shadow Diaries,93.0,0.618,0.837,19.55,-7.972,0.0,0.046,0.187,0.028,0.151,0.605,115.198,4.0,pop,motivational
+spotify:track:0SJPnRHfketwxmKY2uXgLs,Broken River,Jamie Banks,Your River EP,87.0,0.631,0.64,4.0,-7.78,1.0,0.05,0.087,0.043,0.129,0.815,124.199,4.0,pop,happy
+spotify:track:NGnE3ePQSbwrjkvJRNWWS6,Mr. Brightside,The Killers,Hot Fuss,64.0,0.672,1.031125,6.0,-6.231,1.0,0.075,0.142,0.022,0.138,0.514,126.392,4.0,rock,angry
+spotify:track:Iv3yTdPhQhBChG2ZANOXVR,Major Distribution,"Drake, 21 Savage",Her Loss,68.0,0.899,0.776,4.0,-2.689,1.0,0.199,0.149,0.009,0.241,0.609,96.446,3.0,hiphop,energetic
+spotify:track:dFsaQT8e8RWa3Qz5gbKte6,Broken Echo,Skylar Page,Your Echo Sessions,74.0,0.672,0.519,7.0,-7.019,1.0,0.199,0.139,0.045,0.149,0.482,113.759,5.0,,
+spotify:track:ULpN2xzKKZGUiLMh6HNWKY,Old Town Road,Lil Nas X,7,53.0,0.735,0.678,4.0,-3.294,1.0,0.199,0.062,0.003,0.094,0.506,76.98,5.0,hiphop,energetic
+spotify:track:IYmTFJg8zv0qxTdtQqzxMZ,Midnight Rain,Riley Woods,A Rain Sessions,86.0,0.834,0.823,6.0,-2.559,1.0,0.118,0.085,0.035,0.084,0.691,126.331,4.0,pop,happy
+spotify:track:egXDxErZwgjK2MDCDWMWcY,Fire Road,Skylar Rivers,A Road Diaries,86.0,0.697,0.656,1.0,-4.692,1.0,0.079,0.296,0.013,0.216,0.832,118.729,3.0,pop,happy
+spotify:track:xc4nwY6wfQoT34pA4CBx0g,Run It Up,Chase Millions,Chase Millions EP,78.0,0.85,0.655,0.0,-5.99,1.0,0.199,-0.182875,0.025,0.129,0.377,177.28012499999997,4.0,,energetic
+spotify:track:bLIkDVupn4pzC8RqNSsM3H,Enter Sandman,Metallica,Metallica,45.0,0.283,0.824,4.0,-4.818,0.0,0.089,0.097,0.121,0.099,0.113,135.016,5.0,metal,angry
+spotify:track:7E5ouNzQiQGtOD4NOGUdqI,Neon Lights,Mira Soleil,Neon Dreams,75.0,0.839,0.842,4.0,-2.716,0.0,0.073,0.235,0.03,0.107,0.471,127.645,4.0,pop,energetic
+spotify:track:82Ftb9xRx8a3IkFMd19E7u,Silver Heart,Riley Page,Our Heart EP,83.0,0.602,0.662,4.0,-6.804,1.0,0.105,0.116,0.025,0.215,0.656,140.744,4.0,pop,happy
+spotify:track:4irgunRIvSmZXeeTeYewRq,Sex on Fire,Kings of Leon,Only by the Night,70.0,0.319,0.891,0.0,-11.888625,0.0,0.075,0.119,0.026,0.144,0.385,113.759,3.0,rock,energetic
+spotify:track:R2crsSmyKP3tc4LjY6O1Qm,Rockstar,"Post Malone, 21 Savage",Beerbongs & Bentleys,76.0,0.729,0.852,1.0,-7.479,0.0,0.199,0.149,0.022,0.249,0.614,96.672,4.0,???,energetic
+spotify:track:zBCnjovZnemR7dxqSEDbeM,Calm Down,"Rema, Selena Gomez",Rave & Roses,101.0,0.732,0.609,5.0,-2.835,0.0,0.118,0.063,0.019,0.162,0.723,53.40312500000002,4.0,pop,happy
+spotify:track:MCPrIpccFosbdRKzlKHtKp,Sicko Mode,Travis Scott,Astroworld,71.0,0.653,0.64,10.0,-3.999,0.0,0.199,0.085,0.018,0.06,0.498,80.338,4.0,hiphop,motivational
+spotify:track:ejVnbnzCzXhNrVyxMrfzxF,Lost Dream,Morgan Cross,Your Dream Diaries,73.0,0.658,0.588,0.0,-8.021,1.0,0.199,0.062,0.015,0.168,0.596,80.593,4.0,hiphop,motivational
+spotify:track:EAVCMniLGS0gXk9ee09Nbn,Ribs,Lorde,Pure Heroine,46.0,0.672,0.701,5.0,-11.888625,1.0,0.052,0.358,0.074,0.109,0.589,98.234,4.0,indie,
+spotify:track:V48IVnu0j8xzYz29hgjPi6,Distant Dream,Skylar Banks,Our Dream EP,74.0,0.341,0.856,11.0,-5.63,0.0,0.069,0.085,0.087,0.275,0.659,132.907,4.0,rock,energetic
+spotify:track:HvL0uOYzSZnNPVOA3qRJDe,Fire River,Alex Woods,Your River Sessions,69.0,0.536,0.915,9.0,-3.953,0.0,0.049,0.157,0.1365,0.259,0.501,113.759,4.0,rock,energetic
+spotify:track:c7doTITEBER8F40yPxn9A4,Blue in Green,Miles Davis,Kind of Blue,47.0,0.488,0.33212499999999984,6.0,-11.744,1.0,0.065,0.494125,0.03,0.096,0.565,153.558,4.0,jazz,chill
+spotify:track:MvoBmRw7Dm8egXJm4fsJzT,Kids,MGMT,Oracular Spectacular,63.0,0.54,0.533,-5.324,-7.743,1.0,0.071,0.1,0.064,0.227,0.637,133.479,12.113,indie,relaxed
+spotify:track:nFgsNaelsCqmnOVg7202pe,Rising Rain,Drew Lane,Rain EP,72.0,0.73,0.622,2.0,-3.652,1.0,0.079,0.073,0.01,0.135,0.733,101.905,5.0,hiphop,happy
+spotify:track:US6qDrKBsWOy5rFKAFIbTx,Whiskey River,The Lone Stars,Texas Trail,60.0,0.581,0.6835,3.0,-7.076,0.0,0.087,0.494125,0.008,0.096,0.377,94.475,4.0,country,motivational
+spotify:track:e4hnDC06pvZ0OrAfXmpmde,Butterfly Effect,Aria Chen,Metamorphosis,45.0,0.552,0.693,2.0,-5.677,0.0,0.118,0.026,0.041,0.185,0.405,121.471,4.0,pop,energetic
+spotify:track:s6IHSE8kt9vFs7pIDXb2Zz,I Want You Back,Jackson 5,Diana Ross Presents The Jackson 5,71.0,0.748,0.608,6.0,-4.178,0.0,0.107,0.273,0.05,0.215,0.628,118.13,12.397,rnb,happy
+spotify:track:XXuWEOoGkuIVUnzq8dLIs6,Cruel Summer,Taylor Swift,Lover,89.0,0.561,0.571,0.0,-6.106,0.0,0.058,0.151,0.041,0.145,0.756,53.40312500000002,4.0,pop,happy
+spotify:track:IieoMmtPEwU5FpaVTkBS9m,Lost Storm,Drew Blake,Your Storm Sessions,88.0,0.827,0.582,2.0,-3.629,1.0,0.038,0.139,0.012,0.174,0.708,102.8,3.0,,happy
+spotify:track:urYbcsJZzsp7CXUQfoiGMG,Adorn,Miguel,Kaleidoscope Dream,67.0,0.746,0.689,1.0,-6.259,0.0,0.159,0.297,0.016,0.214,0.318,87.268,4.0,rnb,motivational
+spotify:track:hUit2jc8KqXgruv4dvr1E8,Breaking the Law,Judas Priest,British Steel,45.0,0.383,0.829,10.0,-4.31,0.0,0.081,0.033,0.1365,0.314,0.463,153.571,5.0,metal,angry
+spotify:track:WED7jjnYa4zDhsdCrOdQqs,Master of Puppets,Metallica,Master of Puppets,54.0,0.487,0.926,7.0,-2.676,1.0,0.117,0.037,0.106,0.081,0.328,140.228,4.0,,angry
+spotify:track:Nes8gRGMOLAhR8irH1e2jd,Drivers License,Olivia Rodrigo,SOUR,71.0,0.682,0.565,19.994,-5.134,0.0,0.104,0.152,0.004,0.176,0.5605,142.053,4.0,pop,energetic
+spotify:track:N0RKhEFrzs92Nfx26n8rQp,Neon Light,Chris Ray,Light Diaries,83.0,0.555,0.742,11.0,-5.141,1.0,0.111,0.242,0.021,0.229,0.691,95.102,4.0,pop,happy
+spotify:track:JQKClqZn06TiHczF5F4LFT,Rising Heart,Sam Rivers,A Heart,76.0,0.751,0.577,2.0,-3.139,1.0,0.199,0.136,0.008,0.201,0.626,82.402,3.0,hiphop,energetic
+spotify:track:TKsRvOeCggf5RXu7C62taR,Fire Voice,Taylor Stone,Our Voice Diaries,76.0,0.695,0.645,3.0,-7.815,1.0,0.199,0.046,0.024,0.071,0.519,81.709,4.0,hiphop,happy
+spotify:track:RhwVXP5YkMVySnnIhjQY11,Take a Walk,Passion Pit,Gossamer,62.0,0.414,0.705,8.0,-9.279,1.0,0.04,0.14,0.068,0.145,0.716,141.399,4.0,indie,energetic
+spotify:track:t6KDuie27aftdf93rZm4us,King's Dead,"Kendrick Lamar, Jay Rock",Black Panther,83.0,0.84,0.797,9.0,-2.344,1.0,0.199,0.133,0.021,0.172,0.5605,97.169,5.0,,motivational
+spotify:track:AoqDHTZf3rTH4SmNIJulZi,Summer Haze,The Solstice,Golden Days,89.0,0.691,0.688,11.0,-6.515,1.0,0.098,0.308,0.004,0.139,0.699,105.921,3.0,pop,motivational
+spotify:track:NtrXfLnYDzu9vMRS5oy1jG,Clair de Lune,Claude Debussy,Suite bergamasque,45.0,0.2570000000000001,0.476,9.0,-11.888625,0.0,0.199,0.494125,0.1365,0.163,0.198,74.704,4.0,classical,relaxed
+spotify:track:wyxjhlK8Sj7f3yIuZDRorI,Midnight River,Taylor Cross,Your River EP,70.0,0.593,0.721,11.0,-7.547,1.0,0.102,0.274,0.02,0.2,0.683,113.759,4.0,pop,happy
+spotify:track:ckBHEn9pOT7gAzPFpyE5dV,Fire Voice,Morgan Blake,A Voice EP,73.0,0.771,0.582,1.0,-6.625,0.0,0.105,0.139,0.018,0.206,0.509,108.27,4.0,pop,happy
+spotify:track:YbtaJdecyKj6LRT2yqLIac,Rich Flex,"Drake, 21 Savage",Her Loss,76.0,0.824,0.683,0.0,-3.747,0.0,0.104,0.024,0.015,0.072,0.626,79.119,4.0,hiphop,energetic
+spotify:track:WsHOysddNJzBCjJnCjDQL7,Fading Voice,Skylar Rivers,Our Voice Sessions,88.0,0.615,0.712,9.0,-6.684,1.0,0.067,0.067,0.029,0.203,0.612,119.083,4.0,pop,happy
+spotify:track:9UQ9ooUB25AjSMdYrQXWf9,Neon Wasteland,Circuit Breakers,Overload,77.0,0.449,0.848,10.0,-6.43,1.0,0.042,0.064,0.012,0.185,0.36,120.774,4.0,rock,motivational
+spotify:track:sBjWBbbabVQ4QJNkggMCXC,Electric Road,Quinn Blake,The Road Collection,64.0,0.543,0.618,3.0,-5.281,1.0,0.048,0.173,0.03,0.325,0.336,155.921,4.0,rock,energetic
+spotify:track:Ye6752AjG8R9he60dLGKcP,Velvet Sky,Luna Park,Midnight Carousel,84.0,0.606,0.758,8.0,-3.456,1.0,0.046,0.303,0.045,0.215,0.756,123.389,3.0,pop,motivational
+spotify:track:F9Gd81hIlnTd3HoWmsdu0M,Yellow,Coldplay,Parachute,59.0,0.672,0.645,3.0,-7.507,1.0,0.199,0.087,0.133,0.082,0.724,113.533,4.0,rock,happy
+spotify:track:8hHo6Kgl75uqsYpX3bPDBi,As It Was,Harry Styles,Harry's House,87.0,0.727,0.503,7.0,-7.596,0.0,0.033,0.129,0.026,0.163,0.11224999999999996,97.944,4.0,pop,happy
+spotify:track:idyVF0a6Zb0BI2SteoVNau,God's Plan,Drake,Scorpion,68.0,0.856,0.778,9.0,-5.027,1.0,0.079,0.029,0.039,0.249,0.435,92.609,5.0,hiphop,motivational
+spotify:track:7qC4n7a41UQGoYvutkMUqL,Broken Heart,Skylar Rivers,The Heart Sessions,81.0,0.673,0.684,9.0,-3.648,0.0,0.053,0.031,0.031,0.061,0.708,112.576,5.0,pop,happy
+spotify:track:WyfLje0ai3m9zS7HSix9wV,Little Talks,Of Monsters and Men,My Head Is an Animal,52.0,0.428,0.669,1.0,-7.771,0.0,0.054,0.206,0.065,0.211,0.711,130.516,3.0,indie,happy
+spotify:track:t35EfrkjhCh4AYzJQbZ0GO,Round Midnight,Thelonious Monk,Brilliant Corners,45.0,0.414,0.33212499999999984,11.0,-11.888625,1.0,0.06,0.494125,0.1365,0.3658749999999999,0.478,105.123,4.0,jazz,chill
+spotify:track:WRquZwdWiPTVrt1oubrKNY,Neon Night,Casey Woods,The Night Chronicles,78.0,0.667,0.723,9.0,-5.17,0.0,0.084,0.049,0.013,0.124,0.762,113.759,4.0,pop,energetic
+spotify:track:vaF4ShiKXSRidUsM4A1tXZ,Congratulations,Post Malone,Stoney,74.0,0.762,0.68,1.0,-6.845,1.0,0.199,0.02,0.035,0.248,0.634,86.521,4.0,hiphop,motivational
+spotify:track:76VlsuugZfexMlWSlZXXTM,Golden Dream,Riley Page,A Dream EP,76.0,0.603,0.877,7.0,-6.188,1.0,0.045,0.013,0.034,0.182,0.637,138.944,4.0,rock,motivational
+spotify:track:IR1AGKkJbyQrex1VFI5Je9,Lost Rain,Chris Page,Your Rain,77.0,0.741,0.33212499999999984,4.0,-4.146,1.0,0.098,0.058,0.008,0.13,0.73,112.254,4.0,pop,happy
+spotify:track:ZEzAdapqJLgj8uPLQhOxTf,Shake It Out,Florence + The Machine,Ceremonials,50.0,0.557,0.365,6.0,-8.173,1.0,0.043,0.103,0.085,0.17,0.313,142.757,3.0,indie,sad
+spotify:track:D49xrN2gLnEe7D96HKixMf,Sunflower,"Post Malone, Swae Lee",Hollywood's Bleeding,78.0,0.765,0.704,3.0,-6.032,1.0,0.199,0.052,0.023,0.244,0.374,80.926,4.0,hiphop,motivational
+spotify:track:bVyow2FhYs2ghNfTVnB3hQ,Open Night,Morgan Banks,Your Night Collection,86.0,0.583,0.521,11.0,-5.873,0.0,0.034,0.139,0.006,0.11,0.568,113.759,4.0,pop,motivational
+spotify:track:MN8zMgk2HtyxFscc2HC8OF,Ho Hey,The Lumineers,The Lumineers,45.0,0.574,0.532,1.0,-4.004,1.0,0.032,0.303,0.003,0.163,0.361,125.422,0.34,indie,motivational
+spotify:track:6Fj8l02GyFLF2uOyxDjMCE,Body Like a Back Road,Sam Hunt,Montevallo,46.0,0.538,0.519,4.0,-8.205,1.0,0.079,0.494125,0.009,0.186,0.5605,142.419,4.0,country,sad
+spotify:track:bsNikLzBLJ74NZKGaU0ESi,Settling Dust,Bramble Folk,Overgrown,45.0,0.397,0.682,4.0,-5.677,1.0,0.077,0.494125,0.054,0.144,0.446,110.003,4.0,indie,motivational
+spotify:track:9WEBHSMkvCBMK2sViLB04B,Rising Sky,Riley Page,The Sky Diaries,85.0,0.831,0.6835,11.0,-4.035,0.0,0.115,0.342,0.03,-0.0471249999999999,0.508,135.474,3.0,pop,
+spotify:track:Q9zeljl1pCGznGF7Ojrlys,Creep,Radiohead,Pablo Honey,59.0,0.314,0.826,6.0,-2.82,0.0,0.079,0.086,0.121,0.273,0.498,127.645,4.0,rock,energetic
+spotify:track:jeihdiJDQkXpvRDkHWykvm,Dark Road,Riley Lane,Our Road EP,75.0,0.655,0.731,0.0,-4.445,1.0,0.112,0.042,0.015,0.163,0.511,113.759,3.0,,energetic
+spotify:track:kCkvQalRhBJ3CUCltph8lq,Electric Feel,MGMT,Oracular Spectacular,45.0,0.2570000000000001,0.458,4.0,-9.298,1.0,0.074,0.356,0.063,0.219,0.358,138.537,4.0,indie,angry
+spotify:track:9t6vscjBvbdGTInFiM6kFY,Open Storm,Casey Banks,Storm Chronicles,70.0,0.666,0.713,4.0,-11.888625,0.0,0.111,0.106,0.024,0.224,0.485,97.215,4.0,hiphop,motivational
+spotify:track:DB32GwM1UYWrYUUqdA68Ej,All of Me,John Legend,Love in the Future,74.0,0.672,0.426,8.0,-8.676,1.0,0.137,0.189,0.022,0.064,0.618,99.865,3.0,rnb,motivational
+spotify:track:dcqscON1m4Yrpw2cBdVcKv,Fading Voice,Sam Cole,The Voice EP,76.0,0.795,0.779,8.0,-3.245,0.0,0.078,0.152,0.021,0.174,0.547,127.473,5.0,pop,energetic
+spotify:track:04eJ5DWMPm3cGDhJBfEObj,Dark Dream,Quinn Page,Our Dream Chronicles,45.0,0.784,0.614,6.0,-2.781,0.0,0.064,0.093,0.024,0.147,0.5605,131.887,4.0,pop,energetic
+spotify:track:AKeGvZZRaKLIefGjNMuyL8,Mask Off,Future,Future,81.0,0.885,0.695,6.0,-4.545,0.0,0.124,0.022,0.005,0.063,0.711,78.276,4.0,hiphop,motivational
+spotify:track:DooDtxGLhILc2Ey1GohAFu,Stay,"The Kid LAROI, Justin Bieber",F*CK LOVE 3,90.0,0.621,0.642,7.0,-2.585,1.0,0.045,0.139,0.02,0.235,0.617,138.233,4.0,pop,happy
+spotify:track:xP9hBXsdwVjTQBlByRydWk,Electric Sky,Jordan Cross,A Sky Diaries,82.0,0.71,0.777,2.0,-2.313,0.0,0.082,0.344,0.019,0.237,0.732,133.202,4.0,pop,happy
+spotify:track:KOTSQnQb1Wk7ZLBtp6rEKG,Silver Shadow,Jamie Cole,The Shadow Sessions,78.0,0.781,0.683,11.0,-4.291,1.0,0.038,0.327,0.019,0.096,0.848,100.196,4.0,pop,happy
+spotify:track:LEIGccreTJ8B8RHbAFANaw,Wild Light,Jamie Banks,The Light Diaries,81.0,0.574,0.763,6.0,-5.645,0.0,0.079,0.08,0.045,0.1,0.466,108.325,12.266,pop,energetic
+spotify:track:xKe90gswSijYqDydnbUWi5,Crystal Light,Alex Voss,The Light Diaries,81.0,0.672,0.837,7.0,-4.105,1.0,0.079,0.278,0.018,0.185,0.49,123.795,4.0,pop,energetic
+spotify:track:sDsQPq1VslVEbfOUXzZn2I,Neon Voice,Taylor Lane,Your Voice,70.0,0.751,0.861,3.0,-6.422,1.0,0.187,0.031,0.024,0.071,0.432,75.935,4.0,hiphop,energetic
+spotify:track:BqeLE7ROoEDgK1ZJGhdE71,HUMBLE.,Kendrick Lamar,DAMN.,70.0,0.685,0.33212499999999984,10.0,-5.677,1.0,0.199,0.141,0.023,0.15,0.494,96.29,4.0,hiphop,motivational
+spotify:track:qdIKxNl6srR30cNSgmkA97,Open Light,Casey Page,Light Collection,81.0,0.635,0.74,10.0,-6.341,1.0,0.059,0.111,0.033,0.24,0.5605,111.814,4.0,pop,happy
+spotify:track:8owwQ5d1SIUVubaYZvZ8Vx,Wonderwall,Oasis,(What's the Story) Morning Glory?,73.0,0.641,0.868,6.0,-6.748,1.0,0.073,0.066,0.056,0.147,0.309,142.26,4.0,rock,energetic
+spotify:track:N0ZiUpZyaQDeNnCbN2hwG8,Fading Light,Sam Woods,Light Sessions,80.0,0.907,0.557,3.0,-6.667,1.0,0.199,0.117,0.003,0.06,0.471,98.413,4.0,,motivational
+spotify:track:dHzFms58MThNvvCUJwpZqE,Meant to Be,"Bebe Rexha, Florida Georgia Line",All Your Fault,57.0,0.686,0.481,2.0,-7.48,1.0,0.048,0.494125,0.082,0.148,0.747,132.44,4.0,country,happy
+spotify:track:rUn2T0dUlkXnOk9Om3Ttum,Lucid Dreams,Juice WRLD,Goodbye & Good Riddance,71.0,0.666,0.674,11.0,-7.569,1.0,0.111,0.139,0.024,0.239,0.433,79.55,4.0,hiphop,motivational
+spotify:track:AIAeVgyQXu2tH3UagQ8mef,Golden Storm,Drew Blake,Our Storm Chronicles,87.0,0.627,0.536,6.0,-6.63,1.0,0.076,0.035,0.043,0.099,0.658,131.139,4.0,,happy
+spotify:track:8hKCDlBdUmxVLx1DJrIGgW,Silver Light,Quinn Page,Your Light Collection,80.0,0.2570000000000001,0.606,8.0,-2.308,1.0,0.101,0.337,0.032,0.085,0.461,53.40312500000002,4.0,pop,energetic
+spotify:track:9I1LFU9TDcMvjJwwIaaadA,Broken Dream,Quinn Lane,The Dream Diaries,81.0,0.777,0.686,8.0,-3.598,1.0,0.05,0.309,0.016,-0.0471249999999999,0.408,95.206,4.0,pop,energetic
+spotify:track:568eWRZmqbfmTFZb29C8Dx,Midnight Hustle,Nova Beats,Late Night Sessions,64.0,0.839,1.031125,10.0,-6.369,0.0,0.079,0.13,0.009,0.225,0.37,78.159,4.0,hiphop,energetic
+spotify:track:ehmOqROF8vrGKSBUDWaPZq,Permission to Dance,BTS,Permission to Dance,76.0,0.604,0.561,7.0,-3.901,1.0,0.079,0.212,0.012,0.178,0.674,114.127,4.0,pop,energetic
+spotify:track:q2Aapo0U0ZHgegCsC4hTYU,Fire Voice,Alex Banks,A Voice,61.0,0.677,0.526,9.0,-6.135,1.0,0.086,0.052,0.024,0.212,0.512,103.224,4.0,pop,happy
+spotify:track:uIJjj2Jt6CvOQOpgxY42Co,Silver River,Casey Page,Our River,74.0,0.672,0.691,3.0,-5.808,1.0,0.089,0.296,0.026,0.125,0.478,127.684,4.0,pop,energetic
+spotify:track:0BRhEluTinCQ8jiwCT6AWR,City Wide,K-Real,Concrete Jungle,74.0,0.757,0.614,1.0,-2.183,0.0,0.199,0.024,0.016,0.198,0.638,96.771,3.0,hiphop,motivational
+spotify:track:qKqKUc7paB82KvAVdA2dCB,Rising Wave,Chris Cole,Wave Chronicles,76.0,0.854,0.806,4.0,-6.65,1.0,0.199,0.059,0.022,0.183,0.345,99.117,4.0,hiphop,energetic
+spotify:track:uJlRvaBEF3JnWYcy4ShUT6,Broken Storm,Riley Banks,Storm,66.0,0.496,0.839,9.0,-7.176,0.0,0.05,0.141,0.1365,0.21,0.57,147.149,12.127,rock,energetic
+spotify:track:O4RqR9vSjCRQPovAToz0bB,Golden Storm,Alex Lane,Your Storm,68.0,0.878,0.622,4.0,-7.065,1.0,0.199,0.139,0.003,0.086,0.326,103.165,4.0,hiphop,energetic
+spotify:track:xow1oRoWHFepfBjjQuxLen,No Role Modelz,J. Cole,2014 Forest Hills Drive,65.0,0.767,0.739,8.0,-2.638,1.0,0.199,0.036,0.033,0.163,0.345,76.905,3.0,hiphop,energetic
+spotify:track:ipN9AvL5PeFUR8HX5GUBcr,Wild Storm,Skylar Chase,Storm,84.0,0.552,0.839,3.0,-6.051,0.0,0.096,0.262,0.048,0.164,0.695,142.545,4.0,pop,motivational
+spotify:track:tuvMI9mOIIY9N2ONPdEqpa,Earned It,The Weeknd,Fifty Shades of Grey,66.0,0.672,0.754,11.0,-9.006,0.0,0.107,0.263,0.075,0.113,0.305,113.516,4.0,rnb,energetic
+spotify:track:jTOERNNis6ypjoqayMDeCR,Silver Road,Jamie Blake,Road Diaries,83.0,0.81,0.6835,6.0,-3.517,0.0,0.199,0.011,0.018,0.076,0.31,75.535,4.0,hiphop,energetic
+spotify:track:YX6rhkt2ozm6RqNbOW8W3n,Shivers,Ed Sheeran,=,76.0,0.568,0.597,0.0,-3.055,1.0,0.038,0.09,0.032,0.244,0.836,177.28012499999997,4.0,pop,happy
+spotify:track:8QEvpUQjpjX9kbexDxyBK8,Shakira: Bzrp Music Sessions,"Bizarrap, Shakira",Music Sessions Vol. 53,64.0,0.83,0.573,3.0,-5.677,1.0,0.113,0.062,0.006,0.163,0.847,109.845,4.0,latin,happy
+spotify:track:vPxkmp7jWXm3U1WvheaiqG,Where Are Ü Now,"Jack Ü, Justin Bieber",Skrillex and Diplo,65.0,0.887,0.719,-5.352,-4.526,0.0,0.1,0.006,0.1365,0.196,0.74,123.534,4.0,electronic,happy
+spotify:track:JrFpyZuODYg7q6jOSY0Cjg,Fading Star,Drew Blake,The Star EP,94.0,0.602,0.845,10.0,-11.888625,0.0,0.068,0.346,0.022,0.249,0.837,135.423,4.0,pop,happy
+spotify:track:Epuw5M3LVF066VJftOjGjA,Electric River,Chris Chase,A River Collection,78.0,0.551,0.754,1.0,-2.892,0.0,0.073,0.25,0.009,0.185,0.816,141.024,4.0,pop,motivational
+spotify:track:bH84X3qwDxDlaGDD0YmZ1w,Fading Heart,Jamie Voss,Your Heart EP,87.0,0.814,0.717,9.0,-3.302,0.0,0.071,0.128,0.01,0.071,0.553,141.879,4.0,pop,motivational
+spotify:track:zHMukeuXHDcZeZO2Q7pPiw,Crystal Voice,Riley Ray,The Voice,77.0,0.7,0.774,6.0,-6.991,0.0,0.052,0.334,0.048,0.161,0.464,122.022,4.0,pop,motivational
+spotify:track:M6yQuXaMNztLLxB8ObPkoF,Wild Sky,Taylor Banks,Your Sky,67.0,0.614,0.634,5.0,-7.562,0.0,0.08,0.037,0.047,0.144,0.59,124.86,3.0,pop,energetic
+spotify:track:UsZNog61htOEteB4mPoAn4,Open Night,Jordan Ray,Night Chronicles,81.0,0.801,0.522,11.0,-4.43,1.0,0.085,0.041,0.01,0.117,0.768,100.709,4.0,pop,happy
+spotify:track:LGhLDL6rJwT1EtBC3apWAv,Back in Black,AC/DC,Back in Black,63.0,0.362,0.974,2.0,-4.394,0.0,0.112,0.009,0.1365,0.139,1.02225,137.008,4.0,metal,angry
+spotify:track:iiFGxHDwNMYq6Fk4E9MoyF,Open Echo,Taylor Stone,The Echo EP,73.0,0.565,0.823,4.0,-5.023,1.0,0.064,0.161,0.018,0.163,0.595,131.222,4.0,pop,motivational
+spotify:track:g6dsbnAGDnlKJYa6csPjSO,Street Runner,Blaze Uno,Corner Office,70.0,0.901,0.64,6.0,-2.342,0.0,0.199,0.139,0.002,0.128,0.341,86.327,4.0,hiphop,energetic
+spotify:track:E6NfjhZt0gDdgbQzSPPvWc,Distant Road,Quinn Cross,Your Road,80.0,0.909,0.685,-4.583,-8.465,0.0,0.199,0.078,0.009,0.207,0.336,91.814,4.0,hiphop,motivational
+spotify:track:t8qmyFbvvPSnueB1iXKEds,Midnight Serenade,The Jazz Collective,Blue Notes,45.0,0.529,0.33212499999999984,0.0,-11.888625,1.0,0.047,0.494125,0.1365,0.28,0.681,123.539,4.0,jazz,chill
+spotify:track:QYghEMMO67TsKV7GhEA03K,The Less I Know the Better,Tame Impala,Currents,45.0,0.384,0.573,7.0,-5.997,1.0,-0.033,0.357,0.067,0.1,0.3,96.194,4.0,indie,angry
+spotify:track:EXtGT2IvuI9IgAobsmJZq1,Silver Shadow,Jordan Blake,The Shadow Collection,79.0,0.769,0.623,4.0,-5.677,0.0,0.088,0.102,0.03,0.194,0.593,134.554,4.0,pop,energetic
+spotify:track:19Smlt6MNoJKEAbkSOrrcq,Save Your Tears,The Weeknd,After Hours,77.0,0.827,0.776,2.0,-2.398,0.0,0.068,0.2,0.032,0.232,0.681,128.059,3.0,pop,happy
+spotify:track:umvMi5brH8lOJiiF94cHze,Dynamite,BTS,BE,74.0,0.765,0.678,8.0,-2.119,1.0,0.052,0.202,0.019,0.163,0.523,136.736,4.0,pop,happy
+spotify:track:1wYqpexYss9s64UM7bi9QX,Iron Man,Black Sabbath,Paranoid,63.0,0.418,0.948,0.0,-3.276,0.0,0.112,0.013,0.03,0.157,0.253,176.483,4.0,metal,angry
+spotify:track:xtX6iiHAkh6Su4VZofJNzM,Midnight Star,Drew Rivers,Star EP,80.0,0.743,0.526,3.0,-6.815,0.0,0.079,0.334,0.018,0.184,0.702,107.534,4.0,pop,happy
+spotify:track:VJ0TX1eKgK3A6VTNRwwoWc,Bohemian Rhapsody,Queen,A Night at the Opera,70.0,0.619,0.917,6.0,-3.301,0.0,0.061,0.053,0.03,0.249,0.678,150.745,5.0,rock,
+spotify:track:FEstV4Ek78nUplDI45LsFa,Glass Hands,The Mirrors,Reflection EP,58.0,0.54,0.674,11.0,-5.677,0.0,0.042,0.165,0.106,0.199,0.623,123.214,4.0,rock,energetic
+spotify:track:EXf3Lx87EcR0UiAMiSmcke,Lost Night,Chris Banks,Night Chronicles,81.0,0.672,0.826,6.0,-4.184,1.0,0.092,0.023,0.017,0.202,0.411,113.759,3.0,pop,angry
+spotify:track:toRpmF7OTyJC9lvc2jsXYJ,Peaches,"Justin Bieber, Daniel Caesar",Justice,101.0,0.756,0.812,8.0,-3.329,0.0,0.05,0.285,0.035,0.143,0.787,139.273,4.0,pop,happy
+spotify:track:6wY7rP9kDDVhbRd2E8tz2k,Hotel California,Eagles,Hotel California,67.0,0.501,0.797,2.0,-4.72,0.0,0.07,0.116,0.123,0.257,0.497,119.671,4.0,rock,
+spotify:track:LmEFs4p0JVVIX0t2xm8UNz,Here Comes Your Man,Pixies,Doolittle,72.0,0.386,0.654,3.0,-6.653,1.0,0.072,0.052,0.131,0.182,0.747,177.28012499999997,3.0,rock,happy
+spotify:track:qkgTN9DM6vvRHeaIhOipVY,Ghost,Justin Bieber,Justice,86.0,0.773,1.031125,6.0,-6.122,0.0,0.069,0.153,0.032,0.108,0.607,98.893,5.0,pop,motivational
+spotify:track:3OyMsEGyLHcvsJ5PA1vfBf,Golden Rain,Sam Blake,The Rain EP,72.0,0.355,0.646,3.0,-4.557,0.0,0.047,0.057,0.026,0.083,0.5605,150.057,4.0,,happy
+spotify:track:CRdCrPm8z159ned2uyCB3J,Distant Sky,Sam Stone,Your Sky Sessions,80.0,0.665,0.76,6.0,-5.191,1.0,0.199,0.037,0.025,0.053,0.328,77.924,4.0,hiphop,motivational
+spotify:track:M6jtgzSGr0baQ19tHVExtU,Broken Light,Morgan Ray,Light,77.0,0.86,0.783,10.0,-5.966,0.0,0.199,0.121,0.013,0.218,0.11224999999999996,102.742,5.0,hiphop,energetic
+spotify:track:iLmjDjLd3H6LBwPr3bylYC,Open Shadow,Alex Lane,Your Shadow Chronicles,85.0,0.674,0.801,1.0,-7.312,0.0,0.039,0.075,0.007,0.101,0.543,107.859,4.0,pop,energetic
+spotify:track:8mrLT2veKIeYPNcKWRIXXT,Crazy in Love,"Beyoncé, Jay-Z",Dangerously in Love,67.0,0.793,0.625,3.0,-8.653,1.0,0.067,0.308,0.069,0.213,0.591,113.25,11.95,rnb,motivational
+spotify:track:H4QOniD0NCNOJ1fUupBvep,Distant Rain,Casey Stone,The Rain Chronicles,68.0,0.506,0.673,3.0,-3.789,0.0,0.065,0.08,0.1365,0.099,0.562,100.429,4.0,,motivational
+spotify:track:0ugfxCRBnqCuyXYy21Efrt,Golden Heart,Quinn Cole,Heart Chronicles,71.0,0.676,0.744,7.0,-5.677,0.0,0.199,0.07,0.03,0.11,0.476,113.759,3.0,hiphop,motivational
+spotify:track:53i90ZnzUOhXiuWc7ACRBI,Fire Wave,Alex Chase,A Wave Chronicles,73.0,0.807,0.508,0.0,-6.344,1.0,0.08,0.204,0.046,0.081,0.77,129.486,4.0,pop,
+spotify:track:34RApa10bO0ZbJ30uBvMpb,Fire Soul,Taylor Lane,The Soul EP,63.0,0.478,0.736,6.0,-7.133,0.0,0.035,0.169,0.102,0.101,0.499,112.328,4.0,rock,energetic
+spotify:track:eqMeypKS8Mn8E0NQSjxm7s,Fading Road,Drew Lane,Our Road Sessions,74.0,0.72,0.686,5.0,-7.54,0.0,0.104,0.187,0.015,0.183,0.592,112.366,4.0,pop,happy
+spotify:track:fAgQgSyTPdNpdNKim1Ep1J,Lost Road,Jamie Cole,The Road Collection,72.0,0.358,0.819,5.0,-2.374,1.0,0.08,0.087,0.113,0.063,0.486,137.537,3.0,rock,energetic
+spotify:track:I9sf8DbzVv7YvBQ9eW6aqo,Afterglow,Ember Falls,Afterglow,76.0,0.576,0.717,5.0,-7.508,1.0,0.044,0.139,0.032,0.198,0.759,130.655,3.0,pop,happy
+spotify:track:HSXSBIwa6SRLtAhECdTcUX,Open River,Drew Blake,A River Collection,94.0,0.741,0.767,6.0,-5.677,1.0,0.038,0.226,0.03,0.127,0.7,102.449,4.0,pop,motivational
+spotify:track:0mQi6MFbmkBr5EXuIcnWO3,Bag Talk,Deon Wavves,Wave Check,79.0,0.73,0.727,10.0,-3.498,1.0,0.199,0.102,0.011,0.237,0.41,98.401,4.0,hiphop,motivational
+spotify:track:TRRlaPeUGpqvIWyuklORkF,Life Is Good,"Future, Drake",High Off Life,73.0,0.679,0.758,1.0,-2.222,0.0,0.199,0.124,0.008,0.139,0.571,76.231,5.0,hiphop,energetic
+spotify:track:Vwb9H3LCbgyq6tMa65mpH3,Good 4 U,Olivia Rodrigo,SOUR,82.0,0.702,0.733,2.0,-4.674,1.0,0.047,0.239,0.019,0.2,0.547,129.86,4.0,pop,energetic
+spotify:track:bzC9gYtifnDSYSzcamDgIz,Wild Road,Quinn Cole,The Road Chronicles,78.0,0.784,0.828,3.0,-5.519,1.0,0.071,0.079,0.03,0.193,0.713,113.759,3.0,pop,happy
+spotify:track:W2yd0gOa0C7Q0rnG6xCVcm,Sweater Weather,The Neighbourhood,I Love You.,55.0,0.663,0.395,2.0,-11.519,0.0,0.074,0.166,0.048,0.132,0.566,116.009,4.0,indie,happy
+spotify:track:mtLRHQrpadwGtlL1mJHYQL,In My Feelings,Drake,Scorpion,72.0,0.689,0.556,6.0,-6.338,1.0,0.199,0.108,0.039,0.094,0.39,100.931,3.0,hiphop,energetic
+spotify:track:NGrZVbJoHW8XgRp1JYLp6P,Rather Be,"Clean Bandit, Jess Glynne",New Eyes,69.0,0.756,0.732,4.0,-4.219,0.0,0.034,0.071,0.136,0.119,0.372,118.083,4.0,electronic,energetic
+spotify:track:OR0ih1yijqSiS3uC4aoQDE,Titanium,"David Guetta, Sia",Nothing but the Beat,60.0,0.672,0.826,8.0,-4.185,0.0,0.055,0.043,0.1365,0.139,0.398,130.878,3.0,electronic,motivational
+spotify:track:GNuiqNXcqqJ9dS5FztVVwg,Neon Storm,Jordan Ray,Your Storm Diaries,71.0,0.57,0.516,8.0,-5.942,0.0,0.04,0.284,0.046,0.198,0.72,96.129,4.0,pop,happy
+spotify:track:JZN9WBjraMF5XGQmh492K4,Neon Shadow,Taylor Voss,Shadow EP,74.0,0.672,0.641,5.0,-5.677,1.0,0.199,0.027,0.1365,0.163,0.386,92.386,3.0,hiphop,motivational
+spotify:track:fh7TO5xn0ZICUbbRDWmVWY,Dust on the Windshield,Cody Ray,Highway Miles,47.0,0.466,0.469,6.0,-11.888625,1.0,0.053,0.494125,0.011,0.183,0.721,120.644,4.0,country,happy
+spotify:track:YeBE7EqXT4yLALjlB89emh,Real Talk,Marco Polo,The Conversation,82.0,0.693,0.795,1.0,-8.793,0.0,0.107,0.082,0.006,0.223,0.717,80.785,3.0,hiphop,energetic
+spotify:track:bTCjoFPuFHS7K8oPC64ShI,Power Trip,J. Cole,Born Sinner,79.0,0.782,0.653,0.0,-4.757,0.0,0.199,0.106,0.027,0.059,0.71,104.904,4.0,hiphop,motivational
+spotify:track:EBzFE9H39Po9nKyMZOdZAL,Autumn Leaves,Bill Evans Trio,Portrait in Jazz,45.0,0.387,0.567,4.0,-11.888625,1.0,0.085,0.494125,0.1365,0.189,0.445,115.883,4.0,jazz,chill
+spotify:track:1IIPKoBAwOUKDtgudwfGf6,Bad Habits,Ed Sheeran,=,87.0,0.563,0.774,10.0,-5.252,0.0,0.117,0.04,0.024,0.13,0.79,121.073,4.0,pop,happy
+spotify:track:J0VXhKlLHwT1sQF2XzSgKX,Golden Night,Chris Stone,Your Night Collection,67.0,0.557,0.669,1.0,-2.458,0.0,0.096,0.193,0.039,0.079,0.625,113.759,4.0,##corrupt##,energetic
+spotify:track:lGhf8VLttDdrv6B7dXoanW,Fast Car,Tracy Chapman,Tracy Chapman,45.0,0.672,0.33212499999999984,7.0,-11.888625,1.0,0.076,0.494125,0.116,0.244,0.654,107.294,5.0,folk,relaxed
+spotify:track:clGr0ovsNbOVcZFapXJ5Ez,Easy On Me,Adele,30,88.0,0.578,0.534,5.0,-4.662,1.0,0.083,0.205,0.016,0.074,0.732,135.588,4.0,pop,happy
+spotify:track:pi5G2Q3uJRNVq0fP4DnzCU,Watermelon Sugar,Harry Styles,Fine Line,83.0,0.589,0.843,2.0,-3.766,0.0,0.08,0.057,0.03,0.188,0.11224999999999996,117.092,4.0,pop,energetic
+spotify:track:wyNFWM0WdIG4W0wIczi5aN,Fair Trade,"Drake, Travis Scott",Certified Lover Boy,76.0,0.711,0.797,1.0,-7.998,0.0,0.199,0.139,0.03,0.061,0.353,95.873,4.0,hiphop,energetic
+spotify:track:bpUfHiXXdTgg2076zs0iew,Rising Road,Casey Voss,Our Road Chronicles,81.0,0.657,0.671,6.0,-3.901,1.0,0.164,0.088,0.04,0.238,0.51,95.101,4.0,,energetic
+spotify:track:EeO8DNnZOcxb1bHeoGZiAF,Fading Voice,Skylar Chase,Voice Collection,80.0,0.612,0.735,7.0,-7.674,1.0,0.05,0.17,0.028,0.174,0.828,113.167,4.0,pop,happy
+spotify:track:w2ZmJ518y2BtU5x1yQwG21,Happier,Olivia Rodrigo,SOUR,76.0,0.617,0.786,1.0,-3.228,1.0,0.05,0.028,0.01,0.116,0.607,110.26,4.0,pop,
+spotify:track:DI8cShveSbbT6aM3a9PUBP,Hawái,Maluma,Papi Juancho,64.0,0.735,0.6835,1.0,-5.677,0.0,0.07,0.139,0.015,0.143,0.58,113.759,4.0,latin,
+spotify:track:zjdVmiIEaXEEwSHOlUN65P,Distant Light,Jordan Blake,Our Light Sessions,77.0,0.794,0.63,4.0,-6.814,0.0,0.199,0.086,0.036,0.167,0.5605,93.337,3.0,hiphop,energetic
+spotify:track:Kc6p6IMnQnosiofKyTwX7P,Money Trees,Kendrick Lamar,"good kid, m.A.A.d city",80.0,0.723,0.725,3.0,-6.694,1.0,0.127,0.137,0.031,0.079,0.608,87.203,3.0,hiphop,happy
+spotify:track:ss5cuO9CTw0NZAH1w6bfcr,Dark Night,Casey Page,The Night Diaries,78.0,0.2570000000000001,0.844,2.0,-6.24,0.0,0.04,0.065,0.1365,0.083,0.521,154.136,4.0,rock,energetic
+spotify:track:eMXioZesbKjxNCNRwjvefj,Crystal Night,Casey Lane,Night Sessions,74.0,0.778,0.654,4.0,-3.584,1.0,0.089,0.102,0.044,0.056,0.498,116.258,4.0,pop,motivational
+spotify:track:6Qny045tDMcOuv0Z14n0QR,Midnight Wave,Skylar Woods,A Wave EP,75.0,0.622,0.552,3.0,-6.137,0.0,0.074,0.347,0.021,0.231,0.412,134.852,4.0,pop,energetic
+spotify:track:L61OsL8QRut44ISMPvdG2D,Sweet Child O' Mine,Guns N' Roses,Appetite for Destruction,74.0,0.577,0.626,0.0,-5.144,1.0,0.036,0.122,0.09,0.14,0.515,126.514,4.0,rock,happy
+spotify:track:B6Ug9C5dqtELc0MalOjxvN,MIA,"Bad Bunny, Drake",X 100pre,74.0,0.757,0.816,11.0,-6.178,0.0,0.044,0.054,0.03,0.119,0.778,109.775,4.0,latin,happy
+spotify:track:f9AgQxwLhDNpLgVZk4RP1H,Wake Me Up,Avicii,True,64.0,0.734,0.845,10.0,-4.567,0.0,0.079,0.02,0.1365,0.078,0.574,144.401,5.0,electronic,motivational
+spotify:track:9BGwGHl5PXdrQR8HsZAmNW,Stubborn Love,The Lumineers,The Lumineers,45.0,0.2570000000000001,0.4,8.0,-11.433,1.0,0.079,0.363,0.077,0.136,0.326,107.118,4.0,indie,sad
+spotify:track:GcZvNSJx74jiOZg1NdcAa2,Electric Light,Riley Woods,A Light Collection,93.0,0.834,0.82,6.0,-7.735,1.0,0.119,0.262,0.025,0.135,0.804,115.889,4.0,pop,motivational
+spotify:track:TuSMn6LBSMzqEcH6pAlVXS,Fading Voice,Jamie Page,Voice Collection,54.0,0.315,0.772,1.0,-7.814,1.0,0.072,0.174,0.03,0.212,0.314,119.178,4.0,rock,angry
+spotify:track:PN8Ref2vrGdmJvkkmjgofM,The Sound of Silence,Simon & Garfunkel,"Wednesday Morning, 3 A.M.",45.0,0.471,0.33212499999999984,5.0,-11.888625,0.0,0.082,0.494125,0.106,0.087,0.349,100.919,4.0,folk,relaxed
+spotify:track:cPcOEC1WgRSxKrBjLggWaa,Gymnopédie No.1,Erik Satie,Gymnopédies,45.0,0.2570000000000001,0.33212499999999984,7.0,-11.888625,1.0,0.05,0.139,0.1365,0.142,0.172,113.759,4.0,classical,relaxed
+spotify:track:kfoWkhJdlS8goIOyiDV8nM,Silver Light,Chris Page,Your Light,80.0,0.758,0.664,0.0,-4.603,1.0,0.06,0.119,0.016,0.071,0.712,137.6,4.0,pop,happy
+spotify:track:qyaBjAzBNaQNpUcpvjV21J,Eye of the Tiger,Survivor,Eye of the Tiger,67.0,0.672,0.672,5.0,-4.388,1.0,0.081,0.158,0.081,0.336,0.382,101.573,4.0,rock,energetic
+spotify:track:aPd5WrBpJl6JPjpKHFsXr8,XO TOUR Llif3,Lil Uzi Vert,Luv Is Rage 2,90.0,0.672,0.85,9.0,-6.012,1.0,0.199,0.08,0.021,0.227,0.5605,79.975,4.0,hiphop,happy
+spotify:track:QK467S1xdEuNppY0iFYQHW,Industry Baby,"Lil Nas X, Jack Harlow",Montero,72.0,0.775,0.6835,5.0,-5.771,0.0,0.091,0.176,0.03,0.163,0.571,126.927,4.0,pop,motivational
+spotify:track:3TEbp9XaKPdGzPaGivxfCB,Nocturne in E-flat major,Frédéric Chopin,Nocturnes,45.0,0.373,0.457,8.0,-11.888625,0.0,0.053,0.494125,0.1365,0.163,0.432,67.026,4.0,classical,relaxed
+spotify:track:ogrPWlE5Me3ExDi6ZWrzQC,Silver Echo,Morgan Stone,A Echo Collection,77.0,0.579,0.754,6.0,-4.843,0.0,0.052,0.226,0.009,0.2,0.5605,104.473,4.0,pop,happy
+spotify:track:s5iKZyKwvDbhazu51Ki32f,Blackbird,The Beatles,The Beatles (White Album),45.0,0.518,0.469,-4.607,-8.225,1.0,0.059,0.494125,0.03,0.248,0.647,87.231,4.0,folk,relaxed
+spotify:track:XoalVfd51dVL5K9JsQBNgB,Dark Light,Drew Ray,Our Light Collection,66.0,0.414,0.729,8.0,-2.699,0.0,0.076,0.092,0.077,0.25,0.661,135.137,5.0,rock,happy
+spotify:track:GQRrcKH7H1iWTsimoYUzCR,Fading Night,Drew Rivers,Night Sessions,68.0,0.553,0.85,6.0,-7.161,1.0,0.036,0.041,0.107,0.078,0.524,155.617,4.0,rock,motivational
+spotify:track:Obr4GIt6ibWrBgrnGdRiaE,Crystal Shadow,Skylar Lane,Your Shadow EP,76.0,0.477,0.685,8.0,-7.855,1.0,0.035,0.045,0.029,0.248,0.718,108.252,4.0,rock,happy
+spotify:track:nBRNtp3FaBNfBMohNkyAxr,Blinding Lights,The Weeknd,After Hours,78.0,0.652,0.554,11.0,-7.444,1.0,0.039,0.3,0.03,0.211,0.831,111.83,4.0,pop,happy
+spotify:track:rHdqIt88wcE3Fdt7EnxTDV,Lost Heart,Jamie Ray,Heart EP,81.0,0.722,0.616,9.0,-6.232,1.0,0.045,0.249,0.03,0.163,0.559,143.888,3.0,pop,happy
+spotify:track:h9SAvGUiDTSIzAxL54endz,Sure Thing,Miguel,All I Want Is You,71.0,0.706,0.695,6.0,-8.028,0.0,0.162,0.312,0.078,0.074,0.732,103.701,4.0,rnb,happy
